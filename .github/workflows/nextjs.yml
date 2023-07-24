@@ -31,6 +31,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        with:
+          submodules: recursive
       - name: Use PNPM
         uses: pnpm/action-setup@v2
         with:
@@ -43,7 +45,7 @@ jobs:
       - name: Install dependencies
         run: pnpm install
       - name: Build
-        run: pnpm run build
+        run: pnpm tinacms build
       - name: Setup Pages
         uses: actions/configure-pages@v3
         with:
