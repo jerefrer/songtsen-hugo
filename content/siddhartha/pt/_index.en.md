@@ -1,0 +1,7 @@
+#  Acerca do Siddhartha 
+
+Siddhartha é o ramo da Songtsen que se dedica ao apoio às crianças carenciadas, particularmente às crianças da região dos Himalaias. O objetivo do Siddhartha é providenciar-lhes acesso a uma educação dentro da sua própria cultura e tradição espiritual, oferecendo educação ao mesmo tempo que se permite e encoraja a manutenção da sua identidade cultural de origem. 
+
+“Siddhartha” significa “aquele que realiza o objetivo”. Foi o nome de um príncipe indiano que, com a idade de trinta e seis anos, alcançou a iluminação e se tornou Buda. Desde 1980, que tentamos “alcançar o nosso objetivo” de apoiar a educação de centenas de crianças vindas de famílias carenciadas na região dos Himalaias, quer sejam refugiados tibetanos quer pertençam às etnias locais. É uma tarefa enorme, mas devagar e com consistência, o Siddhartha ultrapassou a sua missão inicial, de ajudar as crianças de Orgyen kunzang Chökhorling, o mosteiro fundado por Kangyur Rinpoche em Darjeeling, e dá apoio atualmente a outras instituições, escolas e mosteiros, na India, Nepal e Butão, de forma regular. 
+
+[ ![img_enfants_portrait1](/images/img_enfants_portrait1-150x150.jpg) ](http://www.songtsen.org/siddhartha/wp-content/uploads/sites/6/2013/12/img_enfants_portrait1.jpg) [ ![img_enfants_portrait2](/images/img_enfants_portrait2-150x150.jpg) ](http://www.songtsen.org/siddhartha/wp-content/uploads/sites/6/2013/12/img_enfants_portrait2.jpg)

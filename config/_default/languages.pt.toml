@@ -1,0 +1,14 @@
+languageCode = "pt"
+languageName = "Portugese"
+weight = 3
+title = "Songtsen"
+
+[params]
+  displayName = "PT"
+  isoCode = "pt"
+  rtl = false
+  dateFormat = "2 de janeiro de 2006"
+  # logo = "img/logo.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+  # copyright = "Copy, _right?_ :thinking_face:"

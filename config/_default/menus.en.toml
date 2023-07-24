@@ -29,57 +29,57 @@
   [[main]]
     name = "Founding teachers"
     parent = "Songtsen"
-    pageRef = "founding-teachers"
+    pageRef = "songtsen/founding-teachers"
     weight = 2
 
     [[main]]
       name = "His Holiness the Dalai-Lama"
       parent = "Founding Teachers"
-      pageRef = "his-holiness-the-dalai-lama"
+      pageRef = "songtsen/founding-teachers/his-holiness-the-dalai-lama"
       weight = 1
     [[main]]
       name = "Kyabje Kangyur Rinpoche"
       parent = "Founding Teachers"
-      pageRef = "kyabje-kangyur-rinpoche"
+      pageRef = "songtsen/founding-teachers/kyabje-kangyur-rinpoche"
       weight = 2
     [[main]]
       name = "Dilgo Khyentse Rinpoche"
       parent = "Founding Teachers"
-      pageRef = "dilgo-khyentse-rinpoche"
+      pageRef = "songtsen/founding-teachers/dilgo-khyentse-rinpoche"
       weight = 3
     [[main]]
       name = "Kyabje Dudjom Rinpoche"
       parent = "Founding Teachers"
-      pageRef = "kyabje-dudjom-rinpoche"
+      pageRef = "songtsen/founding-teachers/kyabje-dudjom-rinpoche"
       weight = 4
     [[main]]
       name = "Kyabje Trulshik Rinpoche"
       parent = "Founding Teachers"
-      pageRef = "kyabje-trulshik-rinpoche"
+      pageRef = "songtsen/founding-teachers/kyabje-trulshik-rinpoche"
       weight = 5
     [[main]]
       name = "Jetsun Jampa Chökyi"
       parent = "Founding Teachers"
-      pageRef = "jetsun-jampa-chökyi"
+      pageRef = "songtsen/founding-teachers/jetsun-jampa-chökyi"
       weight = 6
 
   [[main]]
     name = "Spiritual Directors"
     parent = "Songtsen"
-    pageRef = "spiritual-directors"
+    pageRef = "songtsen/spiritual-directors"
 
     [[main]]
       name = "Pema Wangyal Rinpoche"
       parent = "Spiritual Directors"
-      pageRef = "pema-wangyal-rinpoche"
+      pageRef = "songtsen/spiritual-directors/pema-wangyal-rinpoche"
     [[main]]
       name = "Jigme Khyentse Rinpoche"
       parent = "Spiritual Directors"
-      pageRef = "jigme-khyentse-rinpoche"
+      pageRef = "songtsen/spiritual-directors/jigme-khyentse-rinpoche"
     [[main]]
       name = "Tsawa Rinam Rinpoche (Rangdröl Rinpoche)"
       parent = "Spiritual Directors"
-      pageRef = "rangdröl-rinpoche"
+      pageRef = "songtsen/spiritual-directors/rangdröl-rinpoche"
 
 [[main]]
   name = "KRF development"
