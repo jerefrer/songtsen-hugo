@@ -13,7 +13,7 @@ _‘Le maraîcher conduit l’eau où il veut, l’archer taille ses flèches dr
 
 En 1975, après le décès de Kyabjé Kangyour Rinpotché, Kyabjé Dilgo Khyentsé Rinpotché et Kyabjé Dudjom Rinpotché ont commencé à donner des enseignements à Chanteloube, en Dordogne. Les premières cellules y ont été construites à partir de cette époque en vue d’accueillir les pratiquants qui souhaitaient s’engager dans des retraites de longue durée. 
 
-[ ![img_dordogne](/images/img_dordogne-150x150.jpg) ](http://www.songtsen.org/chanteloube/wp-content/uploads/sites/5/2013/11/img_dordogne.jpg)
+[ ![img_dordogne](/assets/images/img_dordogne-150x150.jpg) ](/chanteloube/wp-content/uploads/sites/5/2013/11/img_dordogne.jpg)
 
 Picture taken near the retreat centre 
 
@@ -37,9 +37,9 @@ Pour plus d’information ou pour poser sa candidature, veuillez écrire à : [ 
 
 ##  Retraites « parallèles » 
 
-top ![bt_top](/images/bt_top.png)
+top ![bt_top](/assets/images/bt_top.png)
 
-[ ![Picture taken near the retreat centre](/images/img_vallee_vezere-150x150.jpg) ](http://www.songtsen.org/chanteloube/wp-content/uploads/sites/5/2013/11/img_vallee_vezere.jpg)
+[ ![Picture taken near the retreat centre](/assets/images/img_vallee_vezere-150x150.jpg) ](/chanteloube/wp-content/uploads/sites/5/2013/11/img_vallee_vezere.jpg)
 
 Photo prise près du centre de retraite 
 
@@ -51,7 +51,7 @@ La retraite se poursuit sur une période plus longue, puisque les retraitants m�
 
 Actuellement plusieurs centaines de personnes suivent les retraites parallèles. Elles sont réparties en six groupes de niveaux différents, certains débutants, d’autres plutôt en fin de parcours. Chaque groupe se réunit deux fois par an pour recevoir les enseignements et instructions de Jigmé Khyentsé Rinpotché et/ou de Péma Wangyal Rinpotché. 
 
-top ![bt_top](/images/bt_top.png)
+top ![bt_top](/assets/images/bt_top.png)
 
 ##  Retraites courtes de groupe 
 
@@ -61,9 +61,9 @@ Si vous souhaitez être tenu au courant, consultez notre programme ou inscrivez-
 
 ##  Retraites individuelles 
 
-top ![bt_top](/images/bt_top.png)
+top ![bt_top](/assets/images/bt_top.png)
 
-[ ![The Chanteloube Stupa](/images/img_stoupa_nuit-150x150.jpg) ](http://www.songtsen.org/chanteloube/wp-content/uploads/sites/5/2013/11/img_stoupa_nuit.jpg)
+[ ![The Chanteloube Stupa](/assets/images/img_stoupa_nuit-150x150.jpg) ](/chanteloube/wp-content/uploads/sites/5/2013/11/img_stoupa_nuit.jpg)
 
 Stoupa de Chanteloube 
 
