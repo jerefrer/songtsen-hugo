@@ -18,12 +18,20 @@ export default defineConfig({
       publicFolder: "static",
     },
   },
+  search: {
+    tina: {
+      indexerToken: '6dee0a71125b78969e14b5e5476c61471678d907',
+      stopwordLanguages: ['eng']
+    },
+    indexBatchSize: 100,
+    maxSearchIndexFieldLength: 100
+  },
   schema: {
     collections: [
       {
         name: "post",
         label: "Posts",
-        path: "content/posts",
+        path: "content/",
         fields: [
           {
             type: "string",
@@ -31,6 +39,41 @@ export default defineConfig({
             label: "Title",
             isTitle: true,
             required: true,
+          },
+          {
+            type: "image",
+            name: "featured",
+            label: "Background image",
+          },
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body",
+            isBody: true,
+          },
+        ],
+      },
+      {
+        name: "event",
+        label: "Events",
+        path: "content/chanteloube/events",
+        fields: [
+          {
+            type: "string",
+            name: "title",
+            label: "Title",
+            isTitle: true,
+            required: true,
+          },
+          {
+            type: "datetime",
+            name: "start_date",
+            label: "Begins on",
+          },
+          {
+            type: "datetime",
+            name: "end_date",
+            label: "Ends on",
           },
           {
             type: "rich-text",
