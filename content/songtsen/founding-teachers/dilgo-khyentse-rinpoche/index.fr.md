@@ -1,8 +1,11 @@
-#  Kyabjé Dilgo Khyentsé Rinpotché (1910-1991) 
-
-[ ![Dilgo Khyentse Rinpoche](/images/img_DKR_portrait1-150x150.jpg) ](http://www.songtsen.org/songtsen/wp-content/uploads/sites/2/2013/12/img_DKR_portrait1.jpg)
-
-Kyabjé Dilgo Khyentsé Rinpotché 
+---
+  title: "Kyabjé Dilgo Khyentsé Rinpotché<br/><small>(1910-1991)</small>"
+  showHero: true
+  heroStyle: "background" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur: true # only used when heroStyle equals background or thumbAndBackground
+  layoutBackgroundHeaderSpace: true # only used when heroStyle equals background
+  date: 2023-01-04
+---
 
 Doyen de l’école bouddhique Nyingmapa et Maître spirituel de la famille royale du Bhoutan, Dilgo Khyentsé Rinpotché fut l’un des derniers grands maîtres à avoir effectué la totalité de ses études et de sa formation spirituelle au Tibet. 
 
@@ -73,16 +76,3 @@ Kyabjé Khyentsé Rinpotché est décédé en septembre 1991, l’année du mout
 Dilgo Khyentsé Rinpotché 
 
 Aucune version historique de la vie de Dilgo Khyentse Rinpotché ne peut pleinement décrire ce grand être. Ceux qui avaient l’immense chance de passer du temps en sa présence savaient qu’ils se trouvaient devant un authentique bouddha vivant. En effet, Rinpotché incarnait totalement les enseignements qu’il dispensait et les grands maîtres spirituels dont il détenait la lignée. Même ceux qui l’ont rencontré par hasard ou pour seulement quelques instants, percevant instinctivement ses qualités humaines et spirituelles exceptionnelles, ont été profondément touchés par sa présence. Sa vie toute entière illustre la continuité authentique de la lignée parvenue jusqu’à lui à travers les grands maîtres du passé. 
-
-* * *
-
-Consultez les liens suivants pour lire la biographie des maîtres principaux de Chanteloube : 
-
-  * [ Kyabjé Dilgo Khyentsé Rinpotché ](http://www.songtsen.org/songtsen/fr/founding-teachers/dilgo-khyentse-rinpoche/)
-  * [ Sa Sainteté le Dalaï Lama ](http://www.songtsen.org/songtsen/fr/founding-teachers/his-holiness-the-dalai-lama/)
-  * [ Jétsun Jampa Cheukyi ](http://www.songtsen.org/songtsen/fr/founding-teachers/jetsun-jampa-chokyi/)
-  * [ Kyabjé Dudjom Rinpotché ](http://www.songtsen.org/songtsen/fr/founding-teachers/kyabje-dudjom-rinpoche/)
-  * [ Kyabjé Kangyour Rinpotché ](http://www.songtsen.org/songtsen/fr/founding-teachers/kyabje-kangyur-rinpoche/)
-  * [ Kyabjé Trulshik Rinpotché ](http://www.songtsen.org/songtsen/fr/founding-teachers/kyabje-trulshik-rinpoche/)
-
-

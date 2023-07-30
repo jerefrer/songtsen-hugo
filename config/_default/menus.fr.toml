@@ -83,7 +83,7 @@
 
 [[main]]
   name = "KRF-Development"
-  pageRef = "krf-development"
+  pageRef = "krf"
   weight = 2
 
 [[main]]

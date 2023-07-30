@@ -1,8 +1,11 @@
-#  Kyabjé Dudjom Rinpotché (1904-1987) 
-
-[ ![Kyabje Dudjom Rinpoche](/images/img_DR_portrait3-150x150.jpg) ](http://www.songtsen.org/songtsen/wp-content/uploads/sites/2/2013/12/img_DR_portrait3.jpg)
-
-Portrait de Dudjom Rinpotché 
+---
+  title: "Kyabjé Dudjom Rinpotché<br /><small>(1904-1987)</small>"
+  showHero: true
+  heroStyle: "background" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur: true # only used when heroStyle equals background or thumbAndBackground
+  layoutBackgroundHeaderSpace: true # only used when heroStyle equals background
+  date: 2023-01-03
+---
 
 Kyabje Dudjom Rinpotché est né l’année du Dragon de Bois (1904). Il fut reconnu comme l’incarnation de Dudjom Lingpa, un terteun célèbre de la région de Golok, dans l’est du Tibet. Dudjom Lingpa était un puissant yogi éveillé. Prévoyant l’invasion du Tibet, il dit à ses disciples : « des temps terribles se préparent pour le pays du Dharma. Il est temps pour vous de vous rendre à Pémakeu ; moi, le vieil homme, vous y devancerai ». Peu de temps après, Dudjom Lingpa décéda, et Dudjom Rinpotché naquit à Pémakeu. Petit garçon, il fut capable de reconnaître et d’accueillir ses anciens disciples qui étaient parti à sa recherche. 
 

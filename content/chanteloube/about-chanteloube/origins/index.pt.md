@@ -1,6 +1,6 @@
 #  Origens 
 
-[ ![Kangyur Rinpoche](/images/img_kangyour_rinpoche-150x150.jpg) ](http://www.songtsen.org/chanteloube/wp-content/uploads/sites/5/2013/11/img_kangyour_rinpoche.jpg)
+[ ![Kangyur Rinpoche](/images/img_kangyour_rinpoche-150x150.jpg) ](img_kangyour_rinpoche.jpg)
 
 Kangyur Rinpoche 
 
@@ -8,7 +8,7 @@ As origens de Chanteloube remontam ao ínicio dos anos sessenta, quando um peque
 
 Nesses anos, para a maioria dos europeus era difícil obter vistos de estadia que lhes permitissem residir e praticar em Darjeeling, durante um período de tempo prolongado. Por este motivo, Kangyur Rinpoche aceitou o convite feito pelos seus estudantes, para vir ensinar o Dharma na Europa. Mas foi Kyabje Dudjom Rinpoche, que então residia também na Índia, em Kalimpong, quem visitou primeiro o ocidente, em 1972. Kangyur Rinpoche, que tinha verdadeira consciência de como Dudjom Rinpoche era um mestre extremamente realizado, uma vez que ambos tinham sido discípulos do mesmo mestre raiz, Thrinle Jampa Jungne – Jedrung Rinpoche de Riwoche – enviou então o seu filho mais velho, Pema Wangyal Rinpoche, para pedir a Dudjom Rinpoche que este incluísse a França no seu itinerário e que desse ensinamentos a um grupo de estudantes seus que aí residia. E assim foi que Dudjom Rinpoche visitou a Dordogne pela primeira vez e, mais tarde, em 1976 veio a consagrar o lugar de Chanteloube. 
 
-[ ![Dilgo Khyentse Rinpoche, Dudjom Rinpoche e Trulshik Rinpoche](/images/img_groupe_rinpoche-150x150.jpg) ](http://www.songtsen.org/chanteloube/wp-content/uploads/sites/5/2013/11/img_groupe_rinpoche.jpg)
+[ ![Dilgo Khyentse Rinpoche, Dudjom Rinpoche e Trulshik Rinpoche](/images/img_groupe_rinpoche-150x150.jpg) ](img_groupe_rinpoche.jpg)
 
 Dilgo Khyentse Rinpoche, Dudjom Rinpoche e Trulshik Rinpoche 
 
@@ -16,7 +16,7 @@ Muito próximo de Kangyur Rinpoche, era também Kyabje Dilgo Khyentse Rinpoche. 
 
 Em Janeiro 1975, Kangyur Rinpoche faleceu e foi assim incapaz de realizar o seu desejo de visitar o ocidente. Então, nesse mesmo ano, Pema Wangyal Rinpoche solicitou a Dilgo Khyentse Rinpoche que viesse ao ocidente dar ensinamentos aos alunos de Kangyur Rinpoche. A 16 de Dezembro de 1975, chegaram a Paris e iniciaram uma grande viagem que incluiria não apenas a França, mas também a Suíça, Alemanha, Bélgica, Holanda, Dinamarca, Suécia, Noruega, Inglaterra, Canada e os Estados Unidos da América. Foi durante esta visita que Pema Wangyal Rinpoche aceitou o pedido para que fosse estabelecido um centro de estudos, em França, para prosseguir as actividades do seu pai e assim criar condições para que os seus alunos pudessem receber ensinamentos de Dudjom Rinpoche e de Dilgo Khyentse Rinpoche. Foi assim fundado um centro de estudos em Chanteloube, na Dordogne. 
 
-[ ![Jetsun Jampa Chökyi](/images/img_amala_1-150x150.jpg) ](http://www.songtsen.org/chanteloube/wp-content/uploads/sites/5/2013/11/img_amala_1.jpg)
+[ ![Jetsun Jampa Chökyi](/images/img_amala_1-150x150.jpg) ](img_amala_1.jpg)
 
 Jetsun Jampa Chökyi 
 

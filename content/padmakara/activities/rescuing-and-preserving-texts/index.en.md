@@ -1,0 +1,35 @@
+#  Rescuing and preserving texts 
+
+##  Rescuing and preserving texts 
+
+###  The treasures of Tibetan literature at risk 
+
+[ ![Ancient manuscrit](/images/img_manuscrit-150x150.jpg) ](/images/img_manuscrit.jpg)
+
+Ancient manuscrit 
+
+Tibetan literature is one of the world’s least-known cultural treasures. As described in more detail in the section The history of Tibet’s unique literature, from the eighth century onwards Buddhist teachers invited to Tibet from India brought with them huge numbers of Buddhist texts, which were translated into Tibetan within a relatively short period. But it was not long after this unparalleled migration of knowledge to Tibet was complete that in India itself Buddhist culture began to disappear, as invasion and social change disrupted the living tradition and destroyed the great Indian Buddhist universities. By the mid thirteenth century, almost no traces were left. 
+
+Meanwhile, in Tibet, the texts and traditions that had been implanted there (far more than in any other of the countries of Asia to which Buddhism had spread) were not simply preserved inert, like fossils or museum-pieces. They gave rise to an extraordinary flourishing of study and, above all, spiritual practice. Generations of Tibetans devoted their lives to investigating the Buddhist teachings, and to integrating them with their lives. An enormous body of indigenous works—detailed scriptural commentary, philosophical debate, logic, spiritual instruction, inspirational verse and song, grammar, medicine, linguistics, lexicology, epic poetry—was added over the centuries to the original translated scriptures brought from India. Yet Tibet’s geographic and cultural isolation meant that the outside world (except for Mongolia and parts of China) remained virtually unaware of the existence of these unique cultural riches. 
+
+They had barely begun to be discovered by Western scholars, little by little in the first half of the twentieth century, when disaster struck. The Chinese communists progressively overran Tibet, bringing in their wake the devastating destruction of the cultural revolution. Virtually all the monasteries and centres of learning were laid waste. Buddhist practice was stamped out, and traditional education abruptly ended as countless monks, lamas and scholars were killed or imprisoned. In their ideological zeal, the invaders went to huge efforts to find and destroy every book they could. Bonfires blazed for months as whole libraries, their precious contents preserved intact for a thousand years or more, were reduced to ashes. 
+
+It was only thanks to the tenacious and devoted efforts of those Tibetans who were able to flee into neighbouring India, Nepal and Bhutan that anything survived this wholesale cultural catastrophe. Among those who made the perilous journey across the Himalayas to safety, often under appalling hardship, some chose to carry with them as many books as they could, rather than food or any of their other precious possessions. Gradually, as the precarious conditions of the refugees slowly improved, these books were gathered together. Some were reprinted and distributed, some were copied by hand, and some were conserved in newly established libraries. Many texts had survived, but many, too, had been lost—and some continued to deteriorate and disappear in the humid climate of the host countries. 
+
+###  An extensive collection of Tibetan texts in France 
+
+[ ![Old books collection](/images/img_collection-150x150.jpg) ](/images/img_collection.jpg)
+
+Old book collection 
+
+Pema Wangyal Rinpoche and his family possesses one of the most important collections of rare Tibetan texts in the world. It includes over four thousand Tibetan texts, rare manuscripts, xylograph editions and printed books. They cover all aspects of Tibetan culture—literature, science, medicine, the arts, architecture, and especially texts on Buddhist philosophy and practice from all traditions. At the core of this collection are the books brought out of Tibet by Kangyur Rinpoche who, foreseeing the coming destruction, set out from eastern Tibet with his family, a few years before the worst of the invasion, on an extraordinary journey through the wild border regions of Pemakö. Several years later, he arrived in the Darjeeling area of West Bengal, and little by little was able to build a small monastery and house his precious books. The damp climate of Darjeeling is far from ideal for preserving books, however, and so the most precious were gradually moved to France during the eighties. The collection has been steadily growing ever since, with new additions from many sources. 
+
+The importance of preserving such collections of texts was often discussed by Kangyur Rinpoche, who used to explain that the writings of the masters of the past—Tibetan or otherwise—represent their life-long research, and cannot be rewritten by anyone else. He cherished Tibet’s wisdom for its richness and as a unique heritage, and knew that its disappearance would be a great loss for humanity and for the future. It is in respect of this vision that Kangyur Rinpoche’s family and students are committed to conserving these unique books and making them accessible to all. 
+
+This collection of texts is one of the largest in the West and currently has to be housed in several different locations under less than ideal conditions for preservation, and with limited access to readers and researchers. The library project aims to rectify this situation as soon as possible. 
+
+All of these books are catalogued, examined, checked and classified. Padmakara has undertaken a number of individual text preservation projects, involving the calligraphic copying or computerized input of texts, as well as image scanning and retouching of deteriorating woodblock prints (see Projects). The bulk of such projects covering the major collections of each tradition have been assured by specialist teams based, for the most part, in Nepal and India, but a number of rare works in Padmakara’s own library have been copied and reproduced locally for greater security. 
+
+Meanwhile, Songtsen has been supporting other text preservation projects wherever possible. Texts that had been thought completely lost are still being found, copied and re-published. A new wave of publishing has been under way in Tibet and China for the last decade, and here again Songtsen has been encouraging the printing of new updated collections, and even commissioning traditional xylograph (wood-block) carving in the famous printing-house of Derge in Kham. 
+
+Padmakara’s translators now have available for their research not only the texts in the library, but also a complete set of the unparalleled [ Tibetan Buddhist Resource Center (TBRC) ](http://www.tbrc.org) collection (computerised scans of over 5,000 volumes), and many of the collections of Tibetan texts in computerized input form produced by the [ Asian Classics Input Project ](http://www.asianclassics.org/) , [ Shechen ](http://shechen.org) monastery’s text input team, and other groups working in the field. 

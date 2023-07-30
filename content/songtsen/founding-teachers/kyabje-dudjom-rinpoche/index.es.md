@@ -1,10 +1,13 @@
-#  Kyabje Dudjom Rimpoché (1904-1987) 
+---
+  title: "Kyabjé Dudjom Rimpoché<br /><small>(1904-1987)</small>"
+  showHero: true
+  heroStyle: "background" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur: true # only used when heroStyle equals background or thumbAndBackground
+  layoutBackgroundHeaderSpace: true # only used when heroStyle equals background
+  date: 2023-01-03
+---
 
-[ ![Kyabje Dudjom Rimpoché](/images/img_DR_portrait3-150x150.jpg) ](http://www.songtsen.org/songtsen/wp-content/uploads/sites/2/2013/12/img_DR_portrait3.jpg)
-
-Kyabje Dudjom Rimpoché 
-
-Kyabje Dudjom Rimpoché nació en Pemakö, en el sudeste del Tíbet, el año del Dragón de Madera (1904). Fue reconocido como la reencarnación de Dudjom Lingpa (1835-1904), un famoso tertön de Golok, en el este del Tíbet. Dudjom Lingpa había sido un yogui iluminado muy poderoso. Al prever la invasión china del Tíbet, les dijo a sus discípulos: −Se acercan tiempos terribles para el país del Dharma. Ha llegado el momento para que os marchéis a Pemakö. Yo, el anciano, estaré allí cuando lleguéis.– Poco después Dudjom Lingpa falleció, y Dudjom Rimpoché nació en Pemakö. Ya de niño fue capaz de reconocer y recibir a sus antiguos discípulos cuando llegaron en su búsqueda. 
+Kyabjé Dudjom Rimpoché nació en Pemakö, en el sudeste del Tíbet, el año del Dragón de Madera (1904). Fue reconocido como la reencarnación de Dudjom Lingpa (1835-1904), un famoso tertön de Golok, en el este del Tíbet. Dudjom Lingpa había sido un yogui iluminado muy poderoso. Al prever la invasión china del Tíbet, les dijo a sus discípulos: −Se acercan tiempos terribles para el país del Dharma. Ha llegado el momento para que os marchéis a Pemakö. Yo, el anciano, estaré allí cuando lleguéis.– Poco después Dudjom Lingpa falleció, y Dudjom Rimpoché nació en Pemakö. Ya de niño fue capaz de reconocer y recibir a sus antiguos discípulos cuando llegaron en su búsqueda.
 
 Se dice que Dudjom Rimpoché tenía recuerdos muy claros de su vida anterior, y desde su tierna infancia maravilló a sus compañeros por la extrema facilidad con la que dominaba todas las ramas del conocimiento budista. Dio su primera enseñanza pública, una exposición de La forma de vida del Boddhisatva de Shantideva, a la edad de siete años. Tales eran su sabiduría y sus realizaciones que más tarde sería considerado como una manifestación del propio Guru Padmasabhava. También fue un tertön y un maestro erudito de conocimientos incomparables, cuyo legado consiste en más de veinte volúmenes escritos. 
 

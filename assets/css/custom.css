@@ -1,0 +1,37 @@
+/* Hides site name */
+nav.flex.space-x-3 {
+  display: none;
+}
+
+.homepage .card > div {
+  position: relative;
+  height: 260px;
+  transition: transform 0.25s ease, opacity 0.25s ease, filter 1s ease, -webkit-filter 1s ease;
+}
+.homepage .card > div:before {
+  background-color: black;
+}
+.homepage .card > div:hover:before {
+  opacity: 0;
+}
+.homepage .card > div:hover .description {
+  text-shadow: 0 0 3px black, 0 0 5px black, 0 0 10px black !important;
+}
+.homepage .card > div:before {
+  -moz-transition: opacity 0.5s ease;
+  -webkit-transition: opacity 0.5s ease;
+  -ms-transition: opacity 0.5s ease;
+  transition: opacity 0.5s ease;
+  bottom: 0;
+  content: '';
+  display: block;
+  height: 100%;
+  left: 0;
+  opacity: 0.65;
+  position: absolute;
+  width: 100%;
+  z-index: 2;
+}
+.homepage .card > div .description {
+  z-index: 3;
+}

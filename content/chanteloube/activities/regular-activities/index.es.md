@@ -1,8 +1,8 @@
 #  Actividades regulares 
 
-[ Practice calendar ](http://www.songtsen.org/chanteloube/wp-content/uploads/sites/5/2020/02/DatesTib2020-e1.pdf) [ DatesTib2020-e ](http://www.songtsen.org/chanteloube/wp-content/uploads/sites/5/2020/02/DatesTib2020-e.pdf)
+[ Practice calendar ](DatesTib2020-e1.pdf) [ DatesTib2020-e ](DatesTib2020-e.pdf)
 
-[ ![Padmasambhava, Guru Rinpoche](/images/img_guru_rinpoche-150x150.jpg) ](http://www.songtsen.org/chanteloube/wp-content/uploads/sites/5/2013/11/img_guru_rinpoche.jpg)
+[ ![Padmasambhava, Guru Rinpoche](/images/img_guru_rinpoche-150x150.jpg) ](img_guru_rinpoche.jpg)
 
 Padmasambhava, Guru Rimpoché 
 
@@ -12,4 +12,4 @@ La ofrenda de tsok se practica generalmente los días 10 (el día de Guru Rimpoc
 
 ##  Calendario de prácticas 
 
-[ Regular practice calendar ](http://www.songtsen.org/chanteloube/wp-content/uploads/sites/5/2020/02/DatesTib2020-e.pdf) [ Calendrier des pratiques ](http://www.songtsen.org/chanteloube/wp-content/uploads/sites/5/2020/02/DatesTib2020.pdf) [ Practice calendar ](http://www.songtsen.org/chanteloube/wp-content/uploads/sites/5/2020/02/DatesTib2020-e.pdf) [ Practice calendar ](http://www.songtsen.org/chanteloube/wp-content/uploads/sites/5/2020/02/DatesTib2020-e1.pdf) [ Practice calendar ](http://www.songtsen.org/chanteloube/wp-content/uploads/sites/5/2020/04/DatesTib2020-e.pdf) [ Practice calendar ](http://www.songtsen.org/chanteloube/wp-content/uploads/sites/5/2020/04/DatesTib2020-e.pdf) [ Calendrier des pratiques régulières 2020 – 2021 ](http://www.songtsen.org/chanteloube/wp-content/uploads/sites/5/2020/04/Calendrier-des-pratiques-régulières-2020-2021.pdf) [ Calendrier des pratiques régulières 2021 – 2022 ](http://www.songtsen.org/chanteloube/wp-content/uploads/sites/5/2021/02/Calendrier-des-pratiques-régulières-2021-2022.pdf) [ Calendrier des pratiques régulières 2021 – 2022 ](http://www.songtsen.org/chanteloube/wp-content/uploads/sites/5/2021/02/Calendrier-des-pratiques-régulières-2021-2022.pdf) [ Regular Practice Schedule 2021-2022 ](http://www.songtsen.org/chanteloube/wp-content/uploads/sites/5/2021/02/Regular-Practice-Schedule-2021-2022.pdf) [ Regular practices schedule 2021-2022 ](http://www.songtsen.org/chanteloube/wp-content/uploads/sites/5/2021/02/Regular-practices-schedule-2021-2022.pdf)
+[ Regular practice calendar ](DatesTib2020-e.pdf) [ Calendrier des pratiques ](DatesTib2020.pdf) [ Practice calendar ](DatesTib2020-e.pdf) [ Practice calendar ](DatesTib2020-e1.pdf) [ Practice calendar ](DatesTib2020-e.pdf) [ Practice calendar ](DatesTib2020-e.pdf) [ Calendrier des pratiques régulières 2020 – 2021 ](Calendrier-des-pratiques-régulières-2020-2021.pdf) [ Calendrier des pratiques régulières 2021 – 2022 ](Calendrier-des-pratiques-régulières-2021-2022.pdf) [ Calendrier des pratiques régulières 2021 – 2022 ](Calendrier-des-pratiques-régulières-2021-2022.pdf) [ Regular Practice Schedule 2021-2022 ](Regular-Practice-Schedule-2021-2022.pdf) [ Regular practices schedule 2021-2022 ](Regular-practices-schedule-2021-2022.pdf)

@@ -1,8 +1,11 @@
-#  Kyabje Dilgo Khyentse Rimpoché (1910-1991) 
-
-[ ![Dilgo Khyentse Rimpoché](/images/img_DKR_portrait1-150x150.jpg) ](http://www.songtsen.org/songtsen/wp-content/uploads/sites/2/2013/12/img_DKR_portrait1.jpg)
-
-Dilgo Khyentse Rimpoché 
+---
+  title: "Kyabje Dilgo Khyentse Rimpoché<br/><small>(1910-1991)</small>"
+  showHero: true
+  heroStyle: "background" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur: true # only used when heroStyle equals background or thumbAndBackground
+  layoutBackgroundHeaderSpace: true # only used when heroStyle equals background
+  date: 2023-01-04
+---
 
 Cabeza de la escuela Ñingmapa y maestro espiritual de la familia real de Bután, Dilgo Khyentse Rimpoché perteneció a la última generación de grandes maestros tibetanos que completaron toda su educación y formación en el Tíbet. 
 
@@ -73,16 +76,3 @@ Kyabje Khyentse Rimpoché falleció en 1991, el año de la Oveja de Hierro. El h
 Dilgo Khyentse Rimpoché 
 
 Ningún relato histórico sobre la vida de Dilgo Khyentse Rimpoché puede dar cuenta realmente de quién fue este gran ser. Aquellos que tuvieron la inmensa fortuna de pasar un tiempo junto a él, sabían que se encontraban en la presencia de un Buda viviente. Era, simple y llanamente, la encarnación perfecta del Dharma y la personificación de las enseñanzas que transmitía y de los grandes maestros espirituales a cuyo linaje representaba. Incluso aquellos que se cruzaban con él azarosamente o por poco tiempo, se sentían profundamente conmovidos en su presencia, reconociendo instintivamente sus extraordinarias cualidades espirituales, así como su personalidad sencilla y cálida. Toda su vida fue una verdadera continuación de la tradición que heredó de los grandes maestros del pasado. 
-
-* * *
-
-Consulte las siguientes páginas para acceder a las biografías de los maestros espirituales de Chantelouge : 
-
-  * [ Kyabje Dilgo Khyentse Rimpoché ](http://www.songtsen.org/songtsen/es/founding-teachers/dilgo-khyentse-rinpoche/)
-  * [ Su Santidad el Dalai Lama ](http://www.songtsen.org/songtsen/es/founding-teachers/his-holiness-the-dalai-lama/)
-  * [ Jetsun Jampa Chökyi ](http://www.songtsen.org/songtsen/es/founding-teachers/jetsun-jampa-chokyi/)
-  * [ Kyabje Dudjom Rimpoché ](http://www.songtsen.org/songtsen/es/founding-teachers/kyabje-dudjom-rinpoche/)
-  * [ Kyabje Kangyur Rimpoché ](http://www.songtsen.org/songtsen/es/founding-teachers/kyabje-kangyur-rinpoche/)
-  * [ Kyabje Trulshik Rimpoché ](http://www.songtsen.org/songtsen/es/founding-teachers/kyabje-trulshik-rinpoche/)
-
-

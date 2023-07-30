@@ -1,8 +1,11 @@
-#  Kyabjé Trulshik Rinpotché (1924-20111) 
-
-[ ![Kyabje Trulshik Rinpoche](/images/img_KTR_portrait1-150x150.jpg) ](http://www.songtsen.org/songtsen/wp-content/uploads/sites/2/2013/12/img_KTR_portrait1.jpg)
-
-Kyabjé Trulshik Rinpotché 
+---
+  title: "Kyabjé Trulshik Rinpotché<br/><small>(1924-2011)</small>"
+  showHero: true
+  heroStyle: "background" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur: true # only used when heroStyle equals background or thumbAndBackground
+  layoutBackgroundHeaderSpace: true # only used when heroStyle equals background
+  date: 2023-01-02
+---
 
 Kyabjé Trulshik Rinpotché, dont le souvenir nous emplit de tant de gratitude, fut l’un des derniers grands maîtres à avoir reçu une formation complète, comprenant l’étude et la pratique, dans la tradition du bouddhisme tibétain et l’extraordinaire environnement culturel du Tibet avant son invasion par le régime communiste chinois. Proche disciple de quelques-uns des plus grands maîtres bouddhistes de son temps, tels que Kyabjé Dilgo Khyentsé Rinpotché et Kyabjé Dudjom Rinpotché, il fut également l’un des maîtres contemporains envers qui Sa Sainteté le Dalaï Lama éprouvait le plus de respect, détenteur d’une lignée monastique importante, et héritier d’un grand nombre d’instructions et transmissions précieuses. 
 
@@ -92,16 +95,3 @@ Pour dissiper la douleur du monde.
 Sachant que ces vers constituaient sa prière principale, soyons certains qu’il reviendra bientôt parmi nous afin de poursuivre son œuvre sublime pour le bien de tous. 
 
 Ce texte concis adapté de la biographie de Kyabjé Trulshik Rinpotché écrite par son neveu et principal assistant, Kousho Ngawang Tsephel, a été rédigé et mis à jour par Jigmé Khyentsé Rinpotché et Péma Wangyal Rinpotché en septembre 2011, puis traduit par le Comité de traduction Padmakara. 
-
-* * *
-
-Consultez les liens suivants pour lire la biographie des maîtres principaux de Chanteloube : 
-
-  * [ Kyabjé Dilgo Khyentsé Rinpotché ](http://www.songtsen.org/songtsen/fr/founding-teachers/dilgo-khyentse-rinpoche/)
-  * [ Sa Sainteté le Dalaï Lama ](http://www.songtsen.org/songtsen/fr/founding-teachers/his-holiness-the-dalai-lama/)
-  * [ Jétsun Jampa Cheukyi ](http://www.songtsen.org/songtsen/fr/founding-teachers/jetsun-jampa-chokyi/)
-  * [ Kyabjé Dudjom Rinpotché ](http://www.songtsen.org/songtsen/fr/founding-teachers/kyabje-dudjom-rinpoche/)
-  * [ Kyabjé Kangyour Rinpotché ](http://www.songtsen.org/songtsen/fr/founding-teachers/kyabje-kangyur-rinpoche/)
-  * [ Kyabjé Trulshik Rinpotché ](http://www.songtsen.org/songtsen/fr/founding-teachers/kyabje-trulshik-rinpoche/)
-
-

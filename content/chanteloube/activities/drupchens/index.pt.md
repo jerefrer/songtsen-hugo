@@ -1,6 +1,6 @@
 #  Drupchens 
 
-[ ![Mandala tridimensional](/images/img_drouptchene-150x150.jpg) ](http://www.songtsen.org/chanteloube/wp-content/uploads/sites/5/2013/11/img_drouptchene.jpg)
+[ ![Mandala tridimensional](/images/img_drouptchene-150x150.jpg) ](img_drouptchene.jpg)
 
 Mandala tridimensional 
 

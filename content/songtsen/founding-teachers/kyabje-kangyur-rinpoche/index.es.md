@@ -1,8 +1,11 @@
-#  Kyabje Kangyur Rimpoché (1898 – 1975) 
-
-[ ![Kangyur Rimpoché](/images/img_KKR_portrait11-150x150.jpg) ](http://www.songtsen.org/songtsen/wp-content/uploads/sites/2/2013/11/img_KKR_portrait11.jpg)
-
-Kangyur Rimpoché 
+---
+  title: "Kyabje Kangyur Rimpoché<br /><small>(1898 – 1975)</small>"
+  showHero: true
+  heroStyle: "background" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur: true # only used when heroStyle equals background or thumbAndBackground
+  layoutBackgroundHeaderSpace: true # only used when heroStyle equals background
+  date: 2023-01-05
+---
 
 Kyabje Kangyur Rimpoché, Longchen Yeshe Dorje, nació en el Tíbet Oriental en el año del Perro de Tierra (1898), y comenzó a estudiar y practicar el Dharma a temprana edad. Su maestro raíz fue Jedrung Rimpoché, conocido también como Trinle Jampa Jungne del monasterio de Riwoche. Dicho monasterio tenía fama por su enfoque no sectario, así como por sus ceremonias y festivales anuales, en los que participaban las tres universidades de las tradiciones Ñingmapa, Sarma y Taklung Kagyu. Aunque durante su infancia Kangyur Rimpoché nunca fue entronizado como lama reencarnado de acuerdo a la tradición tibetana, fue reconocido como la emanación de Namkhai Ñingpo, uno de los veinticinco discípulos cercanos de Guru Padmasambhava. Por lo tanto, Kangyur Rimpoché era un tertön y desveló muchos tesoros espirituales preciosos (termas), algunos de ellos a muy temprana edad. 
 
@@ -29,16 +32,3 @@ Kangyur Rimpoché era consciente de la amenaza que pesaba sobre el budismo en el
 Kyabje Kangyur Rimpoché y Kyabje Dudjom Rimpoché 
 
 Kyabje Kangyur Rimpoché falleció en Darjeeling el 24 de enero de 1975, el onceavo día del doceavo mes del Año de la Liebre. Aunque nunca llegó a cumplir su deseo expreso de visitar Europa y los EEUU, consideraba importante que el Dharma se estableciera en Occidente. Por ello, se dedicó incansablemente a los discípulos occidentales que le visitaban e incluso aceptó que muchos de ellos pasaran meses enteros practicando bajo su tutela. A petición suya, finalmente varios grandes maestros, entre ellos Kyabye Dudjom Rimpoché y Kyabje Dilgo Khyentse Rimpoché, fundaron el centro de retiros Chanteloube en Dordoña. Y, gracias a la actividad que inspiró a su consorte Jetsün Jampa Chökyi y a sus hijos Taklung Tsetrul Pema Wangyal Rimpoché, Rangdröl Rimpoché y Jigme Khyentse Rimpoché, así como gracias a la desinteresada e incansable labor de sus tres hijas Rigdzin Chödrön, Jetsün Yangchen Chödzom y Chökyi Dorje, muchos occidentales han podido embarcarse en el estudio y la práctica del Dharma, algunos de ellos en el tradicional retiro de tres años. 
-
-* * *
-
-Consulte las siguientes páginas para acceder a las biografías de los maestros espirituales de Chantelouge : 
-
-  * [ Kyabje Dilgo Khyentse Rimpoché ](http://www.songtsen.org/songtsen/es/founding-teachers/dilgo-khyentse-rinpoche/)
-  * [ Su Santidad el Dalai Lama ](http://www.songtsen.org/songtsen/es/founding-teachers/his-holiness-the-dalai-lama/)
-  * [ Jetsun Jampa Chökyi ](http://www.songtsen.org/songtsen/es/founding-teachers/jetsun-jampa-chokyi/)
-  * [ Kyabje Dudjom Rimpoché ](http://www.songtsen.org/songtsen/es/founding-teachers/kyabje-dudjom-rinpoche/)
-  * [ Kyabje Kangyur Rimpoché ](http://www.songtsen.org/songtsen/es/founding-teachers/kyabje-kangyur-rinpoche/)
-  * [ Kyabje Trulshik Rimpoché ](http://www.songtsen.org/songtsen/es/founding-teachers/kyabje-trulshik-rinpoche/)
-
-

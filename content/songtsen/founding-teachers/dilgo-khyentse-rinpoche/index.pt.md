@@ -1,8 +1,11 @@
-#  Dilgo Khyentse Rinpoche (1910-1991) 
-
-[ ![Dilgo Khyentse Rinpoche](/images/img_DKR_portrait1-150x150.jpg) ](http://www.songtsen.org/songtsen/wp-content/uploads/sites/2/2013/12/img_DKR_portrait1.jpg)
-
-Dilgo Khyentse Rinpoche 
+---
+  title: "Kyabje Dilgo Khyentse Rinpoche<br/><small>(1910-1991)</small>"
+  showHero: true
+  heroStyle: "background" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur: true # only used when heroStyle equals background or thumbAndBackground
+  layoutBackgroundHeaderSpace: true # only used when heroStyle equals background
+  date: 2023-01-04
+---
 
 Mestre de meditação e erudito da mais alta autoridade, Dilgo Khyentse Rinpoche pertenceu à última geração de grandes mestres tibetanos que completou a sua educação e treino no Tibete. Passou mais de vinte anos da sua vida em retiro solitário, levando a sabedoria do estudo, reflexão e meditação a um nível supremo de realização e, no final da sua vida, foi venerado como o líder máximo da escola Nyingma e como conselheiro espiritual da família real do Butão. 
 
@@ -69,16 +72,3 @@ Dilgo Khyentse Rinpoche faleceu no ano da Ovelha de metal (1991) e, como sinal d
 Dilgo Khyentse Rinpoche 
 
 Nenhuma história dos acontecimentos da vida de Khyentse Rinpoche pode comunicar adequadamente o tipo de pessoa que ele foi. Aqueles que tiveram a grande felicidade de estar perto dele sabiam que estavam na presença de um verdadeiro buda. Era simplesmente o Dharma em pessoa, a perfeita personificação dos ensinamentos que transmitia e dos mestres das linhagens que ele detinha. Mesmo as pessoas que encontrava e que não tinham qualquer relação com o Dharma ficavam profundamente tocados pela sua presença, sentindo as suas extraordinárias qualidades espirituais, a sua simplicidade e o afeto da sua personalidade. Toda a sua vida foi a verdadeira continuação das tradições que tinha recebido dos mestres do passado. 
-
-* * *
-
-Consulte as seguintes páginas, para aceder às biografias dos diretores espirituais de Chanteloube : 
-
-  * [ Dilgo Khyentse Rinpoche ](http://www.songtsen.org/songtsen/pt/founding-teachers/dilgo-khyentse-rinpoche/)
-  * [ Sua Santidade Dalai-Lama ](http://www.songtsen.org/songtsen/pt/founding-teachers/his-holiness-the-dalai-lama/)
-  * [ Jetsun Jampa Chökyi ](http://www.songtsen.org/songtsen/pt/founding-teachers/jetsun-jampa-chokyi/)
-  * [ Kyabje Dudjom Rinpoche ](http://www.songtsen.org/songtsen/pt/founding-teachers/kyabje-dudjom-rinpoche/)
-  * [ Kyabje Kangyur Rinpoche ](http://www.songtsen.org/songtsen/pt/founding-teachers/kyabje-kangyur-rinpoche/)
-  * [ Kyabje Trulshik Rinpoche ](http://www.songtsen.org/songtsen/pt/founding-teachers/kyabje-trulshik-rinpoche/)
-
-

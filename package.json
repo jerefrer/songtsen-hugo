@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "concurrently --kill-others \"pnpm run tina_and_hugo\" \"pnpm run tailwindcss\"",
+    "tina_and_hugo": "pnpm tinacms dev -c \"hugo server -D -p 1313\"",
+    "tailwindcss": "cross-env NODE_ENV=development ./themes/blowfish/node_modules/tailwindcss/lib/cli.js -c ./themes/blowfish/tailwind.config.js -i ./themes/blowfish/assets/css/main.css -o ./assets/css/compiled/main.css --jit -w"
   },
   "keywords": [],
   "author": "",
@@ -12,5 +14,9 @@
   "dependencies": {
     "@tinacms/cli": "^1.5.26",
     "tinacms": "^1.5.17"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0",
+    "cross-env": "^7.0.3"
   }
 }

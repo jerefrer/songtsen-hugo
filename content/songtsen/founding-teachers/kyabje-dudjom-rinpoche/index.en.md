@@ -1,8 +1,11 @@
-#  Dudjom Rinpoche (1904-1987) 
-
-[ ![Kyabje Dudjom Rinpoche](/images/img_DR_portrait3-150x150.jpg) ](http://www.songtsen.org/songtsen/wp-content/uploads/sites/2/2013/12/img_DR_portrait3.jpg)
-
-Kyabje Dudjom Rinpoche 
+---
+  title: "Kyabje Dudjom Rinpoche<br /><small>(1904-1987)</small>"
+  showHero: true
+  heroStyle: "background" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur: true # only used when heroStyle equals background or thumbAndBackground
+  layoutBackgroundHeaderSpace: true # only used when heroStyle equals background
+  date: 2023-01-03
+---
 
 Kyabje Dudjom Rinpoche was born in Pemakö, southeast Tibet in the year of the wood dragon (1940). He was recognized as the incarnation of Dudjom Lingpa (1835-1904), the renowned tertön from Golok in the east of Tibet. Dudjom Lingpa was an enlightened yogi of great power. Foreseeing the Chinese invasion of Tibet, he said to his disciples: “Evil times are coming to the land of Dharma. Now is the time for you to go to Pemakö. I the old man will be there before you arrive.” Shortly afterwards, Dudjom Lingpa passed away and so it was that Dudjom Rinpoche was born in Pemakö and as a little boy was old enough to recognize and receive his former disciples as they arrived in search of him. 
 

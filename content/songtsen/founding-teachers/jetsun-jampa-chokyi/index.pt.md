@@ -1,8 +1,11 @@
-#  Jetsun Jampa Chökyi 
-
-[ ![Jetsun Jampa Chökyi](/images/img_amala_portrait1-150x150.jpg) ](http://www.songtsen.org/songtsen/wp-content/uploads/sites/2/2013/12/img_amala_portrait1.jpg)
-
-Jetsun Jampa Chökyi 
+---
+  title: "Jetsun Jampa Chökyi<br/><small>(1922 – 2004)</small>"
+  showHero: true
+  heroStyle: "background" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur: true # only used when heroStyle equals background or thumbAndBackground
+  layoutBackgroundHeaderSpace: true # only used when heroStyle equals background
+  date: 2023-01-01
+---
 
 Jetsun Jampa Chökyi nasceu no trigésimo dia do décimo segundo mês do ano do Cão de água, que corresponde ao ano de 1922. O seu pai, Sonam Tobgyal pertencia à família Do-Gön e era descendente do Rei Trisong Detsen. A sua mãe, Dekyi Nordzom pertencia, pelo lado paterno, à família Zanri Sarpa, a sexta família ou tribo do Tibete. 
 
@@ -39,16 +42,3 @@ Em 1943, Kangyur Rinpoche e Jetsün Jampa Chökyi casaram, vindo a formar uma fa
 [ ![Jetsün Jampa Chökyi com Kyabje Trulshik Rinpoche](/images/img_amala_KTR-300x207.jpg) ](http://www.songtsen.org/songtsen/wp-content/uploads/sites/2/2013/12/img_amala_KTR.jpg)
 
 Jetsün Jampa Chökyi com Kyabje Trulshik Rinpoche 
-
-* * *
-
-Consulte as seguintes páginas, para aceder às biografias dos diretores espirituais de Chanteloube : 
-
-  * [ Dilgo Khyentse Rinpoche ](http://www.songtsen.org/songtsen/pt/founding-teachers/dilgo-khyentse-rinpoche/)
-  * [ Sua Santidade Dalai-Lama ](http://www.songtsen.org/songtsen/pt/founding-teachers/his-holiness-the-dalai-lama/)
-  * [ Jetsun Jampa Chökyi ](http://www.songtsen.org/songtsen/pt/founding-teachers/jetsun-jampa-chokyi/)
-  * [ Kyabje Dudjom Rinpoche ](http://www.songtsen.org/songtsen/pt/founding-teachers/kyabje-dudjom-rinpoche/)
-  * [ Kyabje Kangyur Rinpoche ](http://www.songtsen.org/songtsen/pt/founding-teachers/kyabje-kangyur-rinpoche/)
-  * [ Kyabje Trulshik Rinpoche ](http://www.songtsen.org/songtsen/pt/founding-teachers/kyabje-trulshik-rinpoche/)
-
-

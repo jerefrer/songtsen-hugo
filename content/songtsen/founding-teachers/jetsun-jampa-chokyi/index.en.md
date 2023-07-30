@@ -1,8 +1,11 @@
-#  Jetsun Jampa Chökyi 
-
-[ ![Jetsun Jampa Chökyi](/images/img_amala_portrait1-150x150.jpg) ](http://www.songtsen.org/songtsen/wp-content/uploads/sites/2/2013/12/img_amala_portrait1.jpg)
-
-Jetsun Jampa Chökyi 
+---
+  title: "Jetsun Jampa Chökyi<br/><small>(1922 – 2004)</small>"
+  showHero: true
+  heroStyle: "background" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur: true # only used when heroStyle equals background or thumbAndBackground
+  layoutBackgroundHeaderSpace: true # only used when heroStyle equals background
+  date: 2023-01-01
+---
 
 Jetsün Jampa Chökyi was born on the 30th day of the 12th month of the year of the Water Dog (1922). Her father, Sonam Tobyal was of the Do-Gön family and a descendent of King Trisong Detsen. Her mother, Dekyi Nordzom, belonged, on the side of her father Rinpong Desid, to the Zanri Sarpa, the sixth family or tribe of Tibet. 
 
@@ -39,16 +42,3 @@ In 1943, Kangyur Rinpoche and Jetsün Jampa Chökyi married and together they ha
 [ ![Jetsün Jampa Chökyi with Kyabje Trulshik Rinpoche](/images/img_amala_KTR-300x207.jpg) ](http://www.songtsen.org/songtsen/wp-content/uploads/sites/2/2013/12/img_amala_KTR.jpg)
 
 Jetsün Jampa Chökyi with Kyabje Trulshik Rinpoche 
-
-* * *
-
-Consult the following links for the biographies of Chanteloube's spiritual Directors :
-
-  * [ Dilgo Khyentse Rinpoche ](http://www.songtsen.org/songtsen/founding-teachers/dilgo-khyentse-rinpoche/)
-  * [ His Holiness the Dalai-Lama ](http://www.songtsen.org/songtsen/founding-teachers/his-holiness-the-dalai-lama/)
-  * [ Jetsun Jampa Chökyi ](http://www.songtsen.org/songtsen/founding-teachers/jetsun-jampa-chokyi/)
-  * [ Kyabje Dudjom Rinpoche ](http://www.songtsen.org/songtsen/founding-teachers/kyabje-dudjom-rinpoche/)
-  * [ Kyabje Kangyur Rinpoche ](http://www.songtsen.org/songtsen/founding-teachers/kyabje-kangyur-rinpoche/)
-  * [ Kyabje Trulshik Rinpoche ](http://www.songtsen.org/songtsen/founding-teachers/kyabje-trulshik-rinpoche/)
-
-

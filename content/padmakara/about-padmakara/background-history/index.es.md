@@ -1,0 +1,49 @@
+#  Contexto e historia 
+
+[ ![Contexto e historia](/images/img_textes_anciens.jpg) ](/images/img_textes_anciens_la.jpg)
+
+Texto tibetano antiguo 
+
+A medida que en Occidente crecía el interés por las enseñanzas del budismo tibetano, se hacía sentir la necesidad de soportes que hicieran dichas enseñanzas accesibles a un público internacional, transmitiendo a un tiempo su auténtico significado. Superar este desafío requería de la colaboración de eruditos y traductores internacionales, así como de un control meticuloso realizado por maestros tibetanos competentes. Las primeras traducciones hechas por académicos de textos clásicos se hallaban a menudo muy alejadas de la tradición aún viva de exégesis oral; mientras que la ola de traducciones más fieles que las siguió, redactadas por entusiastas discípulos occidentales de maestros tibetanos, adoptaba una forma demasiado alejada de los hábitos culturales del público occidental. 
+
+A lo largo del siglo XX, algunos textos budistas fueron traducidos en Occidente por destacados especialistas universitarios, precursores en este ámbito y que poseían un amplio conocimiento teórico del idioma tibetano. Sin embargo, sus traducciones contenían errores de interpretación debidos, principalmente, a dos razones. En primer lugar, a la actitud propia, en general, de la investigación universitaria: la necesidad de objetividad, entendida como necesidad de evitar toda implicación personal. La segunda, relacionada con esta última y acaso más importante, era la ausencia de contacto de estos traductores con la tradición oral de explicación. En Occidente, se entiende que un texto contiene la mayor parte de la información necesaria a su comprensión, mientras que en la cultura budista tibetana, un libro es un conjunto de anotaciones o una herramienta para la enseñanza que ofrece el esqueleto que tomará cuerpo con las explicaciones detalladas transmitidas oralmente a lo largo de generaciones. Por ello, comprender los enunciados a menudo oscuros de un texto, no es en absoluto cuestión de adivinanzas o de interpretaciones personales. Los textos encierran significados precisos que hay que recoger de eruditos que hayan recibido una enseñanza oral completa sobre un texto en particular. 
+
+Otras traducciones, en cambio, las realizaron fervientes budistas, que trabajaban en el respeto a la tradición y en contacto con maestros detentores del linaje de transmisión oral. A menudo, sin embargo, estos traductores descuidaron la claridad de lengua y estilo. Por otra parte, en algunos casos, no contaban con entrenamiento alguno en la lengua escrita de destino; en ocasiones, se habían sumergido durante años en una cultura diferente, alejada geográficamente de la propia y sus traducciones se resintieron con ello: el vocabulario y la sintaxis híbridos, alambicados, se leían con dificultad y daban la impresión de que el asunto mismo, al igual que la lengua de destino usada, se hallaban fuera de alcance. 
+
+De modo que existía una nueva vía que abrir para traductores que conocieran bien el tibetano, trabajasen en estrecha relación con maestros auténticos y tuvieran una sólida experiencia personal, capaces de escribir con un estilo claro, preciso y, en lo posible, elegante. Padmakara se creó con la aspiración de satisfacer esta necesidad. 
+
+##  La evolución de Padmakara 
+
+###  Los traductores de Padmakara en los años 1980 
+
+Padmakara se fundó en los años 1980 por iniciativa de Pema Wangyal Rimpoché. La primera obra publicada fue el Kunzang Lamai Shelung, conocido texto del siglo XIX de Patrul Rimpoché, traducido al francés con el título de Le Chemin de la Grande Perfection, publicado en 1987 tras años de investigación y centenares de aclaraciones facilitadas por grandes lamas. Recibió una calurosa acogida que saludó su fiabilidad y su estilo sencillo y elegante, hasta el punto de que algunos lectores pensaron que se trataba de un texto francés original. Quedó así establecido el tono para otras traducciones, tan fieles como fuera posible y redactadas en una lengua actual. El Comité de Traducción de Padmakara contaba entonces con tres personas; hoy reúne a nueve traductores a tiempo completo y varios a tiempo parcial, que trabajan bajo la dirección de los lamas residentes y de los que vienen de paso, ayudados por algunos relectores. 
+
+Los traductores estudian y practican el budismo desde hace varios años, la mayoría de ellos ha realizado al menos un retiro de meditación de tres años, incluso más. De modo que sus conocimientos no son únicamente teóricos. Conscientes de la necesidad de un esfuerzo constante, así como de control personal para evitar los escollos apuntados anteriormente, se esfuerzan en mantener un estrecho contacto con maestros y eruditos auténticos, al tiempo que mantienen un compromiso con la práctica. Así mismo, se hace especial énfasis en el cuidado de la forma escrita y el trabajo en equipo. 
+
+Durante los cinco primeros años de actividad, se tradujo al francés e inglés una docena de libros, a los que se sumaron numerosos textos breves para la práctica. Pema Wangyal Rimpoché deseaba desarrollar una base sólida al ofrecer traducciones en tantas lenguas como fuese posible. A partir de 1994 aparecieron varias traducciones al alemán y al español, trabajo que se continúa hoy con textos disponibles en portugués, holandés, finés, ruso, rumano y algunos incluso en chino, nepalí e hindi. Padmakara aspira a continuar ampliando el abanico de las lenguas de traducción. 
+
+###  Aspectos prácticos: el no lucro 
+
+Padmakara es una asociación sin ánimo de lucro. Cuenta con un equipo de tres personas asalariadas. 
+
+El proceso de traducción de textos budistas tibetanos requiere de plazos tales, que inhabilitan la aplicación del concepto habitual de rentabilidad editorial. El precio de salida de los libros publicados en Francia no guarda relación con el verdadero coste de producción. El producto de la venta de libros cubre los gastos de impresión o reimpresión de algunos libros por año, así como los gastos generales de oficina, pero no la totalidad de los salarios del equipo administrativo, por no hablar del trabajo de los traductores. Únicamente los donativos y subvenciones externas garantizan a los traductores unas condiciones de trabajo satisfactorias. 
+
+Durante muchos años, todos los traductores trabajaban de modo altruista en su tiempo libre, para proyectos que podían durar décadas. Más recientemente, gracias al apoyo financiero de la [ Fundación Tsadra ](http://www.tsadra.org/#Intro) , de la Fundación Padmasambhava a través de la Fondation de France, así como de donantes particulares, siete de los nueve principales traductores de Padmakara (casi todos de nacionalidad francesa o inglesa) son pagados con regularidad. Sin embargo, queda todavía, tanto en Francia como en otros países, un número importante de traductores que trabajan para Padmakara altruistamente a tiempo parcial, mientras ejercen un empleo alimenticio para garantizar su día a día. 
+
+Urge pues, hallar una financiación regular que permita fundamentar el trabajo sobre una base estable. La traducción de textos budistas requiere de mucho más cuidado y tiempo que las traducciones comunes, y el número de textos que queda por traducir es considerable. Padmakara desearía mejorar el apoyo financiero a sus traductores, para que éstos dediquen más tiempo a esta labor, siendo el ideal que pudieran dedicarse a ella a tiempo completo. Posibilidad de la que estamos lejos. 
+
+###  ¿Por qué es urgente traducir aun más textos? 
+
+Cabe pensar que, ya que la conservación de los textos tibetanos originales está en gran parte garantizada, no es necesario mantener un ritmo de traducción sostenido. Sin embargo, se trata justamente de lo contrario, y para entender porqué, hay que conocer cómo y para qué se usa el libro en la tradición budista tibetana. 
+
+[ ![img_100ans_DKR](/images/img_100ans_DKR-150x150.jpg) ](/images/img_100ans_DKR.jpg)
+
+Celebración del centenario del nacimiento de Dilgo Khyentse Rimpoché 
+
+La enseñanza oral y la interacción entre maestro y discípulo son la espina dorsal de la cultura budista tibetana. La tradición viva, oral (detentada y transmitida por seres excepcionales que han integrado totalmente las enseñanzas recibidas) es su substancia vital: sin ella, los libros, incluso anotados, no son más que vestigios de piedra. A pesar de ello, son importantes, pues dan forma a una tradición o a un método en particular y proporcionan la estructura y el soporte necesarios para una aproximación específica al conocimiento, un esqueleto que tomará cuerpo con las explicaciones orales detalladas. 
+
+Algunos textos, condensados hasta el límite del hermetismo, se escribieron en verso para facilitar la memorización. Otros proporcionaban comentarios desarrollados a determinadas partes, pero en ningún caso se pretendía que contuvieran la totalidad de la información necesaria para su plena comprensión. Algunos están escritos de modo en que sean accesibles a los seres en función de sus diferentes capacidades. Todo ello explica que un traductor deba tener acceso siempre a la tradición oral viva, si aspira a transmitir el significado preciso. 
+
+Todavía recientemente, cualquiera que lo deseara podía estudiar un texto en detalle, de principio a fin, junto a un maestro auténtico. Pero esto es cada vez más difícil: con los años, la mayoría de los grandes maestros ha desaparecido; hace diez años aún eran relativamente numerosos, hoy sólo son unos pocos. Con su desaparición, la explicación de determinados términos o pasajes de algunos de los textos más profundos está definitivamente perdida. 
+
+Así mismo, es urgente traducir tantos textos como sea posible mientras queden maestros y eruditos cualificados para explicarlos a partir de una tradición oral auténtica, para que traductores con experiencia puedan así trabajar a la luz de sus explicaciones. Queda tanto por hacer que no hay tiempo que perder. 

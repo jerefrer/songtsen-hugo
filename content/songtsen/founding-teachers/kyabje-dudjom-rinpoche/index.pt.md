@@ -1,8 +1,11 @@
-#  Kyabje Dudjom Rinpoche (1904-1987) 
-
-[ ![Kyabje Dudjom Rinpoche](/images/img_DR_portrait3-150x150.jpg) ](http://www.songtsen.org/songtsen/wp-content/uploads/sites/2/2013/12/img_DR_portrait3.jpg)
-
-Kyabje Dudjom Rinpoche 
+---
+  title: "Kyabje Dudjom Rinpoche<br /><small>(1904-1987)</small>"
+  showHero: true
+  heroStyle: "background" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur: true # only used when heroStyle equals background or thumbAndBackground
+  layoutBackgroundHeaderSpace: true # only used when heroStyle equals background
+  date: 2023-01-03
+---
 
 Kyabje Dudjom Rinpoche nasceu em Pemakö, no sudoeste do Tibete, decorria então o ano do Dragão de madeira (1904). Foi reconhecido como encarnação de Dudjom Lingpa (1835-1904), grande tertön de Golok, no leste do Tibete, e um yogui com grandes poderes. Antevendo a invasão do Tibete por parte dos chineses, anúnciou aos seus discípulos: “Aproximam-se tempos maléficos para a terra do Dharma, chegou o momento de partirem para Pemakö, no entanto, este velho chegará lá antes de vocês!” disse ele, falando de si próprio. Pouco depois Dudjom Lingpa faleceu. Alguns anos mais tarde, os seus discípulos chegaram a Pemakö e Dudjom Rinpoche, que era então um pequeno rapaz que aí vivia, reconheceu-os imediatamente como tendo sido os seus discípulos na sua vida passada, dando-se assim por terminada a busca da encarnação de Dudjom Lingpa. 
 

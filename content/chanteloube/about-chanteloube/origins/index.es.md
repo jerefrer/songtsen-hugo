@@ -1,6 +1,6 @@
 #  Orígenes 
 
-[ ![img_kangyour_rinpoche](/images/img_kangyour_rinpoche-150x150.jpg) ](http://www.songtsen.org/chanteloube/wp-content/uploads/sites/5/2013/11/img_kangyour_rinpoche.jpg)
+[ ![img_kangyour_rinpoche](/images/img_kangyour_rinpoche-150x150.jpg) ](img_kangyour_rinpoche.jpg)
 
 Kangyur Rimpoché 
 
@@ -10,7 +10,7 @@ En aquella época, a la mayoría de los europeos les resultaba difícil obtener 
 
 Así que, a través de su hijo mayor Pema Wangyal Rimpoché, Kangyur Rimpoché pidió a Dudjom Rimpoché que incluyera Francia en su itinerario para dar enseñanzas a un grupo de estudiantes que vivía allí. Así fue como Dudjom Rimpoché visitó Dordoña en 1976 y consagró el lugar de Chanteloube. 
 
-[ ![img_groupe_rinpoche](/images/img_groupe_rinpoche-150x150.jpg) ](http://www.songtsen.org/chanteloube/wp-content/uploads/sites/5/2013/11/img_groupe_rinpoche.jpg)
+[ ![img_groupe_rinpoche](/images/img_groupe_rinpoche-150x150.jpg) ](img_groupe_rinpoche.jpg)
 
 Dilgo Khyentse Rimpoché, Dudjom Rimpoché, y Trulshik Rimpoché 
 
@@ -18,7 +18,7 @@ Otro gran maestro muy cercano a Kangyur Rimpoché era Kyabje Dilgo Khyentse Rimp
 
 El lugar del futuro centro de retiros fue bendecido y consagrado por Dudjom Rimpoché, Kalu Rimpoché y Dilgo Khyentse Rimpoché, así como por el décimo sexto Gyalwa Karmapa, a quienes Kangyur Rimpoché había pedido que visitaran Dordoña durante su viaje a Occidente para enseñar a los que vivían allí. 
 
-[ ![img_amala_1](/images/img_amala_1-150x150.jpg) ](http://www.songtsen.org/chanteloube/wp-content/uploads/sites/5/2013/11/img_amala_1.jpg)
+[ ![img_amala_1](/images/img_amala_1-150x150.jpg) ](img_amala_1.jpg)
 
 Jetsun Jampa Chökyi 
 

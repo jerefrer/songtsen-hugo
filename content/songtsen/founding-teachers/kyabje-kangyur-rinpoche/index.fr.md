@@ -1,8 +1,11 @@
-#  Kyabjé Kangyour Rinpotché (1898 – 1975) 
-
-[ ![Kangyur Rinpoche](/images/img_KKR_portrait11-150x150.jpg) ](http://www.songtsen.org/songtsen/wp-content/uploads/sites/2/2013/11/img_KKR_portrait11.jpg)
-
-Kangyour Rinpotché 
+---
+  title: "Kyabjé Kangyour Rinpotché<br /><small>(1898 – 1975)</small>"
+  showHero: true
+  heroStyle: "background" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur: true # only used when heroStyle equals background or thumbAndBackground
+  layoutBackgroundHeaderSpace: true # only used when heroStyle equals background
+  date: 2023-01-05
+---
 
 Kyabje Kangyour Rinpotché, Longchen Yeshe Dorje, naquit au Tibet oriental en l’an du Chien de Terre (1898). Dès l’enfance, il s’intéressa à l’étude et à la pratique du Dharma. Il eut pour maître principal Jédroung Rinpotché, également connu sous le nom de Trinlay Jampa Jungné de Riwotché, monastère réputé pour son approche non sectaire et les cérémonies et fêtes annuelles que les trois collèges, appartenant aux traditions Nyingma, Sarma et Taklung Kagyü organisaient ensemble. Bien qu’il n’ait jamais été officiellement intronisé en tant que tulkou selon la tradition tibétaine, Kangyour Rinpotché était considéré comme la manifestation de Namkhaï Nyingpo – l’un des vingt-cinq disciples proches de Gourou Padmasambhava – commença très jeune à réveler les trésors spirituels cachés (termas). 
 
@@ -29,16 +32,3 @@ Kyabje Kangyour Rinpotché connaissait la menace qui pesait sur le bouddhisme au
 Kangyour Rinpotché et Dudjom Rinpotché 
 
 Kyabjé Kangyour Rinpotché est décédé à Darjeeling le 24 janvier 1975, le onzième jour du douzième mois de l’année du Lièvre. Bien qu’il n’ait pas pu se rendre en Europe et aux Etats-Unis, il pensait que le Dharma devrait s’y établir. Fort de cette certitude, il donna inlassablement de son temps aux disciples occidentaux qui venaient le voir et permit même à certains de pratiquer avec lui, en Inde, pendant des mois. Enfin, grâce aux requêtes qu’il adressa à de grands maîtres comme Dilgo Khyentsé Rinpotché et Dudjom Rinpotché, et grâce à l’activité qu’il inspira à sa femme, Jétsun Jampa Chokyï, et à leurs six enfants – Taklung Tsetrul Pema Wangyal Rinpotché, Jigme Khyentsé Rinpotché, Tsawa Rinam Rinpotché, Rigdzin-la, Yangchen-la et Chökyi-la – de nombreux occidentaux purent étudier et pratiquer le Dharma, notamment en France, dans le cadre de retraites traditionnelles de trois ans. 
-
-* * *
-
-Consultez les liens suivants pour lire la biographie des maîtres principaux de Chanteloube : 
-
-  * [ Kyabjé Dilgo Khyentsé Rinpotché ](http://www.songtsen.org/songtsen/fr/founding-teachers/dilgo-khyentse-rinpoche/)
-  * [ Sa Sainteté le Dalaï Lama ](http://www.songtsen.org/songtsen/fr/founding-teachers/his-holiness-the-dalai-lama/)
-  * [ Jétsun Jampa Cheukyi ](http://www.songtsen.org/songtsen/fr/founding-teachers/jetsun-jampa-chokyi/)
-  * [ Kyabjé Dudjom Rinpotché ](http://www.songtsen.org/songtsen/fr/founding-teachers/kyabje-dudjom-rinpoche/)
-  * [ Kyabjé Kangyour Rinpotché ](http://www.songtsen.org/songtsen/fr/founding-teachers/kyabje-kangyur-rinpoche/)
-  * [ Kyabjé Trulshik Rinpotché ](http://www.songtsen.org/songtsen/fr/founding-teachers/kyabje-trulshik-rinpoche/)
-
-

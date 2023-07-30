@@ -1,8 +1,11 @@
-#  Dilgo Khyentse Rinpoche 
-
-[ ![Dilgo Khyentse Rinpoche](/images/img_DKR_portrait1-150x150.jpg) ](http://www.songtsen.org/songtsen/wp-content/uploads/sites/2/2013/12/img_DKR_portrait1.jpg)
-
-Dilgo Khyentse Rinpoche 
+---
+  title: "Kyabje Dilgo Khyentse Rinpoche<br/><small>(1910-1991)</small>"
+  showHero: true
+  heroStyle: "background" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur: true # only used when heroStyle equals background or thumbAndBackground
+  layoutBackgroundHeaderSpace: true # only used when heroStyle equals background
+  date: 2023-01-04
+---
 
 Dilgo Khyentse Rinpoche belonged to the last generation of great Tibetan masters who completed their entire education and training in Tibet. 
 
@@ -73,16 +76,3 @@ Kyabje Khyentse Rinpoche died in the year of the iron sheep (1991). It is an ind
 Dilgo Khyentse Rinpoche 
 
 No factual account of Dilgo Khyentse Rinpoche’s life can adequately convey the sort of person he was. Those who had the immense good fortune to spend time in his vicinity knew that they were in the presence of a living Buddha. He was quite simply the perfect embodiment of the Dharma, the personification of the teachings that he transmitted and the great spiritual masters whose lineage he upheld. Even strangers and those outside the Dharma were profoundly touched by his presence, instinctivly sensing his extraordinary spiritual qualities as well as the simplicity and warmth of his personality. His whole life was a true continuation of the tradition that had come down to him from the great masters of the past. 
-
-* * *
-
-Consult the following links for the biographies of Chanteloube's spiritual Directors :
-
-  * [ Dilgo Khyentse Rinpoche ](http://www.songtsen.org/songtsen/founding-teachers/dilgo-khyentse-rinpoche/)
-  * [ His Holiness the Dalai-Lama ](http://www.songtsen.org/songtsen/founding-teachers/his-holiness-the-dalai-lama/)
-  * [ Jetsun Jampa Chökyi ](http://www.songtsen.org/songtsen/founding-teachers/jetsun-jampa-chokyi/)
-  * [ Kyabje Dudjom Rinpoche ](http://www.songtsen.org/songtsen/founding-teachers/kyabje-dudjom-rinpoche/)
-  * [ Kyabje Kangyur Rinpoche ](http://www.songtsen.org/songtsen/founding-teachers/kyabje-kangyur-rinpoche/)
-  * [ Kyabje Trulshik Rinpoche ](http://www.songtsen.org/songtsen/founding-teachers/kyabje-trulshik-rinpoche/)
-
-

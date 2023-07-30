@@ -1,8 +1,11 @@
-#  Jétsun Jampa Cheukyi (1922 – 2004) 
-
-[ ![Jetsun Jampa Chökyi](/images/img_amala_portrait1-150x150.jpg) ](http://www.songtsen.org/songtsen/wp-content/uploads/sites/2/2013/12/img_amala_portrait1.jpg)
-
-Jétsun Jampa Cheukyi 
+---
+  title: "Jétsun Jampa Cheukyi<br/><small>(1922 – 2004)</small>"
+  showHero: true
+  heroStyle: "background" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur: true # only used when heroStyle equals background or thumbAndBackground
+  layoutBackgroundHeaderSpace: true # only used when heroStyle equals background
+  date: 2023-01-01
+---
 
 Jétsun Jampa Cheukyi est née le trentième jour du 12ème mois tibétain dans l’année du Chien (1922). Elle grandit à Nyémo, dans le Tibet central. Son père, Sonam Tobgyal, de la famille Do-Gön, était un descendant du roi Trisong Detsen, et sa mère, Deki Norzom, descendait du clan de Zanri Sarpa, la sixième tribu tibétaine, par la lignée de son père, Rin Pong Desid. 
 
@@ -39,16 +42,3 @@ En 1943, Jétsun Jampa Cheukyi devint l’épouse de Kangyour Rinpotché et ils 
 [ ![Jetsün Jampa Chökyi with Kyabje Trulshik Rinpoche](/images/img_amala_KTR-300x207.jpg) ](http://www.songtsen.org/songtsen/wp-content/uploads/sites/2/2013/12/img_amala_KTR.jpg)
 
 Jétsun Jampa Cheukyi et Kyabjé Trulshik Rinpotché 
-
-* * *
-
-Consultez les liens suivants pour lire la biographie des maîtres principaux de Chanteloube : 
-
-  * [ Kyabjé Dilgo Khyentsé Rinpotché ](http://www.songtsen.org/songtsen/fr/founding-teachers/dilgo-khyentse-rinpoche/)
-  * [ Sa Sainteté le Dalaï Lama ](http://www.songtsen.org/songtsen/fr/founding-teachers/his-holiness-the-dalai-lama/)
-  * [ Jétsun Jampa Cheukyi ](http://www.songtsen.org/songtsen/fr/founding-teachers/jetsun-jampa-chokyi/)
-  * [ Kyabjé Dudjom Rinpotché ](http://www.songtsen.org/songtsen/fr/founding-teachers/kyabje-dudjom-rinpoche/)
-  * [ Kyabjé Kangyour Rinpotché ](http://www.songtsen.org/songtsen/fr/founding-teachers/kyabje-kangyur-rinpoche/)
-  * [ Kyabjé Trulshik Rinpotché ](http://www.songtsen.org/songtsen/fr/founding-teachers/kyabje-trulshik-rinpoche/)
-
-

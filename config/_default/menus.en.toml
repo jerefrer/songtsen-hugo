@@ -32,58 +32,16 @@
     pageRef = "songtsen/founding-teachers"
     weight = 2
 
-    [[main]]
-      name = "His Holiness the Dalai-Lama"
-      parent = "Founding Teachers"
-      pageRef = "songtsen/founding-teachers/his-holiness-the-dalai-lama"
-      weight = 1
-    [[main]]
-      name = "Kyabje Kangyur Rinpoche"
-      parent = "Founding Teachers"
-      pageRef = "songtsen/founding-teachers/kyabje-kangyur-rinpoche"
-      weight = 2
-    [[main]]
-      name = "Dilgo Khyentse Rinpoche"
-      parent = "Founding Teachers"
-      pageRef = "songtsen/founding-teachers/dilgo-khyentse-rinpoche"
-      weight = 3
-    [[main]]
-      name = "Kyabje Dudjom Rinpoche"
-      parent = "Founding Teachers"
-      pageRef = "songtsen/founding-teachers/kyabje-dudjom-rinpoche"
-      weight = 4
-    [[main]]
-      name = "Kyabje Trulshik Rinpoche"
-      parent = "Founding Teachers"
-      pageRef = "songtsen/founding-teachers/kyabje-trulshik-rinpoche"
-      weight = 5
-    [[main]]
-      name = "Jetsun Jampa Chökyi"
-      parent = "Founding Teachers"
-      pageRef = "songtsen/founding-teachers/jetsun-jampa-chokyi"
-      weight = 6
-
   [[main]]
     name = "Spiritual Directors"
     parent = "Songtsen"
     pageRef = "songtsen/spiritual-directors"
+    weight = 3
 
-    [[main]]
-      name = "Pema Wangyal Rinpoche"
-      parent = "Spiritual Directors"
-      pageRef = "songtsen/spiritual-directors/pema-wangyal-rinpoche"
-    [[main]]
-      name = "Jigme Khyentse Rinpoche"
-      parent = "Spiritual Directors"
-      pageRef = "songtsen/spiritual-directors/jigme-khyentse-rinpoche"
-    [[main]]
-      name = "Tsawa Rinam Rinpoche (Rangdröl Rinpoche)"
-      parent = "Spiritual Directors"
-      pageRef = "songtsen/spiritual-directors/rangdröl-rinpoche"
 
 [[main]]
   name = "KRF development"
-  pageRef = "krf-development"
+  pageRef = "krf"
   weight = 2
 
 [[main]]
@@ -100,6 +58,19 @@
   name = "Siddhartha"
   pageRef = "siddhartha"
   weight = 5
+
+    [[main]]
+      name = "About Siddhartha"
+      parent = "Siddhartha"
+      pageRef = "siddhartha/about-siddhartha"
+      weight = 1
+
+    [[main]]
+      name = "Projects"
+      parent = "Siddhartha"
+      pageRef = "siddhartha/projects"
+      weight = 2
+
 
 
 #[[main]]

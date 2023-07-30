@@ -1,6 +1,6 @@
 #  Historique 
 
-[ ![img_kangyour_rinpoche](/images/img_kangyour_rinpoche-150x150.jpg) ](http://www.songtsen.org/chanteloube/wp-content/uploads/sites/5/2013/11/img_kangyour_rinpoche.jpg)
+[ ![img_kangyour_rinpoche](/images/img_kangyour_rinpoche-150x150.jpg) ](img_kangyour_rinpoche.jpg)
 
 Kangyour Rinpotché 
 
@@ -8,7 +8,7 @@ L’histoire de Chanteloube remonte aux années 60 lorsqu’un petit groupe d’
 
 Les difficultés qu’eurent ses disciples à obtenir des visas afin de pouvoir pratiquer auprès de Kangyour Rinpotché les ont poussés à demander à Rinpotché de venir en Europe pour y enseigner et établir le Dharma. Kangyour Rinpotché a répondu par l’affirmative. En 1972, Kyabje Dudjom Rinpotché, qui résidait non loin de là, à Kalimpong, préparait sa première visite en Occident. Kangyour Rinpotché connaissait le haut degré de réalisation de Dudjom Rinpotché car ils avaient tous deux pour maître principal Thrinle Jampai Jung-né, connu aussi sous le nom de Jédrung Rinpotché du monastère de Riwoché. Il envoya donc son fils ainé, Pema Wangyal Rinpotché, faire la requête à Dudjom Rinpotché d’inclure la France sur la liste des pays à visiter et d’y dispenser des enseignements à l’intention des disciples qui résidaient en ce pays. Cette même année, Dudjom Rinpotché fit sa première visite en Dordogne. En 1976 il y bénit les locaux de Chanteloube. 
 
-[ ![img_groupe_rinpoche](/images/img_groupe_rinpoche-150x150.jpg) ](http://www.songtsen.org/chanteloube/wp-content/uploads/sites/5/2013/11/img_groupe_rinpoche.jpg)
+[ ![img_groupe_rinpoche](/images/img_groupe_rinpoche-150x150.jpg) ](img_groupe_rinpoche.jpg)
 
 Dilgo Khyentsé Rinpotché, Dudjom Rinpotché et Trulshik Rinpotché 
 
@@ -16,7 +16,7 @@ Kyabje Dilgo Khyentse Rinpotché était un autre grand maître contemporain trè
 
 Le sol du futur centre de retraite fut béni par Dudjom Rinpotché, Kalou Rinpotché, Dilgo Khyentse Rinpotché et par le XVIe Karmapa. Kangyour Rinpotché avait demandé à ce dernier d’inclure la Dordogne parmi les lieux visités en Europe, et d’y donner des enseignements à ses disciples. 
 
-[ ![img_amala_1](/images/img_amala_1-150x150.jpg) ](http://www.songtsen.org/chanteloube/wp-content/uploads/sites/5/2013/11/img_amala_1.jpg)
+[ ![img_amala_1](/images/img_amala_1-150x150.jpg) ](img_amala_1.jpg)
 
 Jétsun Jampa Cheukyi 
 

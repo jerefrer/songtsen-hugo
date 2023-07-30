@@ -1,0 +1,87 @@
+﻿#  La littérature d’une tradition vivante 
+
+##  Transmission de la connaissance de l’Inde au Tibet 
+
+###  Padmasambhava 
+
+[ ![Padmasambhava](/images/img_padma_thangka_lar-150x150.jpg) ](/images/img_padma_thangka_lar.jpg)
+
+Padmasambhava 
+
+L’histoire de la manière dont le Tibet devint dépositaire des enseignements et traditions bouddhistes, du VII° au XX°siècle, montre qu’il s’agit de bien autre chose qu’un heureux hasard. Elle débute avec la clairvoyance innovatrice du grand roi du VII°siècle Songtsen Gampo et de son ministre Thönmi Sambhota qui adoptèrent un nouvel alphabet d’origine indienne et mirent au point la grammaire de la langue tibétaine, permettant ainsi le début des premières traductions. Mais c’est environ 120 ans plus tard, au VIII°siècle, que l’immense travail d’implantation du bouddhisme au Tibet et de traduction du canon bouddhiste commença à s’accélérer. A la requête du roi Trisong Détsen, le grand maître Padmasambhava et l’abbé Shantarakshita établirent la première université bouddhique à Samyé, au Tibet central. Padmasambhava, Shantarakshita, ainsi que Vimalamitra et plus d’une centaine d’érudits indiens officiellement invités formèrent des traducteurs tibétains tels que Vairotsana, Kawa Peltsek, Namkhai Nyingpo, Langdro Könchok Jungné, Kyeuchung Lotsa et d’autres encore. Ils entreprirent alors l’immense tâche de traduction systématique de la plupart des textes que comprennent à présent le Kangyur et le Tengyur – le Kangyur contenant les paroles du Bouddha, en 100 volumes environ, et le Tengyur, les commentaires de grands philosophes et maîtres bouddhistes indiens ultérieurs, en 225 volumes environ. 
+
+Ces textes furent traduits en très grand nombre par la première génération de traducteurs tibétains, en un temps relativement court, tandis que de nouvelles traductions s’ajoutaient régulièrement à ces grandes collections, jusqu’au XIV° siècle pour le Kangyur – son contenu fut alors arrêté par Butön – , et jusqu’au XVII° siècle pour le Tengyur, qui fut établi dans sa forme actuelle sous le règne du Grand Cinquième Dalaï Lama. D’autres textes traduits venant d’Inde furent rassemblés en différentes collections. 
+
+###  Disparition des sources 
+
+[ ![Ancient Tibetan text cover](/images/img_pecha-book-cover-150x150.jpg) ](/images/img_pecha-book-cover.jpg)
+
+Couverture de livre 
+
+Pendant ce temps, à l’extérieur du Tibet, et surtout en Inde, qui subissait des vagues successives d’invasions et de changements sociaux, beaucoup des textes originaux avaient été irrémédiablement perdus depuis longtemps, et la tradition vivante interrompue. Au début du XIII°siècle, la grande université bouddhiste monastique de Nalanda – lieu de savoir florissant depuis onze siècles – et les universités plus récentes de Vikramashila et d’Odantapuri avaient toutes été détruites au fil des invasions mogholes qui déferlaient sur l’Inde. L’apparition de l’Islam et les changements politiques de la société indienne avaient éloigné le Dharma du Bouddha de sa terre d’origine, et c’est ailleurs que les enseignements étaient préservés : le Theravada au Sri Lanka, en Birmanie, Thaïlande et au Cambodge, le Mahayana en Chine, au Japon, en Corée et en Indochine, et le Vajrayana au Tibet principalement – même si l’on retrouve des traditions du Vajrayana au Népal, et une tradition réduite du Vajrayana au Japon. Le Tibet était doublement favorisé : c’était non seulement l’un des rares pays dans lesquels le Vajrayana se pratiquait encore, mais aussi le seul dans lequel tout l’ensemble des enseignements des trois traditions était préservé et transmis. 
+
+###  L’épanouissement d’une littérature indigène 
+
+[ ![Rare Tibetan manuscript](/images/img_pecha_1-150x150.jpg) ](/images/img_pecha_1.jpg)
+
+Manuscrit tibétain rare 
+
+C’est donc à partir du VIII° siècle que le Tibet devint le réceptacle privilégié des enseignements bouddhistes. Mais il ne s’agissait pas d’une conservation figée de trésors sacrés. Depuis l’époque de Padmasambhava, la pratique et l’érudition bouddhistes s’étaient répandues, devenant des siècles durant le principal centre d’intérêt des esprits les plus brillants du Tibet. Cela donna naissance à un éventail littéraire étonnant de textes philosophiques, poétiques, théoriques et mystiques – ainsi qu’à un superbe trésor d’art et d’architecture originaux. De grands maîtres étudiaient, pratiquaient et réalisaient les enseignements bouddhistes dans leur infinie variété de méthodes et d’approches, ils rendaient compte de leur quête intérieure en rédigeant des commentaires, des liturgies, des poèmes ou chants de réalisation, des études détaillées de la voie et des instructions essentielles profondes. Les débats entre maîtres et traditions à propos de points d’interprétation difficiles produisirent des textes d’une profondeur de vue extraordinaire. Ces écrits concernent en général la philosophie et la pratique bouddhistes, appelées traditionnellement “science de l’esprit” ou métaphysique, mais l’étendue de la littérature tibétaine indigène ou traduite est vaste et couvre un large choix de sujets, classés en quatre sciences majeures – médecine, arts et techniques, grammaire, logique – et cinq sciences mineures – astrologie, poétique, prosodie et théâtre. 
+
+[ ![Milarepa](/images/img_milarepa-150x150.jpg) ](/images/img_milarepa.jpg)
+
+Milarépa 
+
+On aurait tort de croire que la période glorieuse du Tibet appartient à un passé lointain et que les derniers siècles marquent un déclin. En réalité chaque siècle, jusqu’au XX°, a eu ses grands esprits dans le domaine spirituel. Atisha, Rongzom, Marpa, Milarépa, Gampopa et Padampa Sangyé au XI°et XII°siècle; Sakya Pandita au XIII°; Butön, Dolpopa, Karmapa Rangjung Dorjé, Thangthong Gyalpo, Longchenpa et Tsongkhapa aux XIV°et XV°; Ngari Panchen, Taranatha, le Cinquième Dalaï Lama et Terdak Lingpa aux XVI° et XVII°; Shabkar, Jigmé Lingpa et ses disciples au XVIII°siècle pour n’en nommer que quelques un. Le XIX° siècle connut une forme de renaissance à travers le mouvement ri-med, ou non-sectaire, initié par Jamyang Khyentsé Wangpo, Jamgön Kongtrul et d’autres. Ils s’efforçaient d’abattre le cloisonnement développé entre les différentes écoles bouddhistes au moyen de l’étude et de l’enseignement impartial de chacune. L’abondance d’écrits de grands maîtres qui suivirent, tels que Patrul, Mipham, Jigmé Tenpai Nyima, le troisième Shechen Gyaltsab, ou des tertöns inspirés comme Chokyur Lingpa et Dudjom Lingpa, marque un épanouissement extraordinaire de la pensée tibétaine bouddhiste qui s’est poursuivi sans faillir à travers la première moitié du XX° siècle. En dépit de l’inimaginable bouleversement causé par l’invasion du Tibet, beaucoup d’érudits accomplis, dont Dilgo Khyentse Rinpoché et Dudjom Rinpoché, poursuivirent en exil l’enrichissement de la littérature tibétaine. 
+
+Evoquons enfin, pour compléter cet aperçu de la littérature tibétaine le corpus en constante augmentation d’écrits profanes – romans, théâtre, histoire, essais socio-politiques, articles de journaux – de la diaspora ou du Tibet, qui témoignent de la rencontre de la culture tibétaine avec le monde moderne, et de la force d’une tradition profondément ancrée. 
+
+L’histoire du Tibet n’est pas exempte de bouleversements politiques, mais son isolement géographique, et le profond respect des Tibétains pour les textes sacrés, a garanti le maintien et l’évolution de ce riche ensemble de culture, de connaissances et de sagesse. Le legs inaltéré de la pensée bouddhiste indienne s’est ainsi mêlé aux profondes introspections et à l’expérience développées par des générations de Tibétains qui se sont vouées à l’étude et à la pratique bouddhistes pendant plus de treize siècles. 
+
+###  Le début du désastre 
+
+Aussi longue qu’elle ait été, cette continuité culturelle devait être interrompue de façon tragique. L’invasion communiste et l’occupation du Tibet, commencées en 1949 et menées à terme en dix ans, entraînèrent la mort de plus d’un million de Tibétains. Parmi eux, des milliers des savants érudits et de maîtres accomplis, plus particulièrement visés, furent emprisonnés, torturés et tués. Les principaux monastères et bibliothèques furent détruits. Ils renfermaient souvent les derniers exemplaires de certains textes dont l’original sanscrit avait disparu. Parmi ces très nombreux livres détruits certains textes ont irrémédiablement disparu. 
+
+Ainsi, dans la bibliothèque du monastère de Riwoché parmi d’autres trésors, se trouvaient d’anciens manuscrits indiens des plus rares, sauvés au XIII° siècle par Sönam Pal, lors de la destruction par les envahisseurs moghols des universités de Nalanda et Vikramashila. La bibliothèque abritait également une vaste collection de traductions uniques d’enseignements bouddhistes et de commentaires de grands érudits et maîtres tibétains. L’ensemble était si fourni que les troupes communistes chinoises durent s’acharner pour le détruire intégralement. Les brasiers flambèrent durant des mois, jusqu’à ce que le dernier livre fût finalement détruit. 
+
+###  Un refuge précaire 
+
+[ ![Rescuing and preserving texts](/images/img_conservation_texte-150x150.jpg) ](/images/img_conservation_texte.jpg)
+
+Conservation de textes 
+
+Malgré la destruction massive de ces grandes bibliothèques, toute la littérature tibétaine ne fut heureusement pas perdue. Au début de l’invasion, lorsque la culture bouddhiste tibétaine parut de plus en plus clairement menacée, parmi les centaines de milliers de Tibétains qui se sauvèrent au risque de leur vie dans les pays avoisinants se trouvaient de nombreux érudits et maîtres tibétains qui avaient emporté leurs précieux textes. Abandonnant leurs objets de valeur, ils avaient traversé les rudes Himalayas avec autant de livres qu’ils pouvaient en transporter. C’est grâce à leurs immenses efforts que beaucoup de textes précieux échappèrent à la destruction. 
+
+Mais la sécurité des livres n’était encore pas assurée : une autre période difficile les attendait dans les conditions précaires des premiers camps de réfugiés. Peu à peu, cependant, les lamas exilés commencèrent à construire de nouveaux, monastères et bibliothèques. C’est dans les années 1970 que commença une vague de copie, réimpression et édition de tous les livres apportés du Tibet dans les décennies précédentes, grâce, notamment, au travail intense de M. Gene Smith, le représentant de la Bibliothèque du Congrès américain à Dehli. On commença à compiler des catalogues, à inventorier ce qui était sauvé et ce qui manquait. À partir des années 1990, la numérisation de plusieurs grandes collections de textes fut entreprise, améliorant leur sauvegarde et leur accessibilité. On s’est aperçu plus récemment que des manuscrits rares et précieux, aussi bien que des textes réimprimés dans les années 1970, se perdaient ou se dégradaient à l’humidité de certains monastères. Un nouveau programme pour les sauvegarder plus rapidement en les scannant, avec archivage informatisé, a été mis en route par le [ Tibetan Buddhist Resource Center ](http://www.tbrc.org) , grâce une fois encore à la prévoyance et à la culture encyclopédique de Gene Smith. 
+
+Au Tibet, l’occupation se poursuivait, et aujourd’hui encore les Tibétains sont loin de pouvoir adhérer librement à leur culture traditionnelle. Mais à mesure que la furie destructrice de la révolution culturelle diminuait, quelques textes rares, cachés pendant des décennies pour éviter leur perte, commencèrent à réapparaître. Des copies furent emportées en Inde ou au Népal, ou parfois rééditées au Tibet même ou en Chine. Érudits et chercheurs découvrent, identifient et restaurent encore aujourd’hui des ouvrages dont on pensait initialement qu’il ne restait plus trace. 
+
+On ne retrouvera sans doute jamais l’intégralité de la richesse de la littérature du Tibet, mais les érudits et les lamas accordaient une telle importance à leurs précieux textes qu’un nombre miraculeux de ceux-ci a échappé à la catastrophe. Il faut désormais travailler à assurer leur préservation, et les mettre à la disposition d’un monde qui a bien besoin du savoir et de la sagesse qu’ils renferment. 
+
+###  Rendre accessible en traduction un trésor de la culture humaine 
+
+[ ![Wheel of existences](/images/img_roue-150x150.jpg) ](/images/img_roue.jpg)
+
+Roue de l’existence 
+
+La protection des cultures menacées de disparition et le collectage de la poésie et du folklore des minorités ethniques est toujours extrêmement importante. Mais la littérature tibétaine dépasse ce cadre : elle englobe une variété de textes majeurs ou moins connus de l’une des grandes religions de ce monde, ainsi qu’un vaste corpus de textes d’érudits tibétains et de pratiquants, qui rassemble un savoir accumulé en plus d’un millénaire. On dispose de beaucoup plus d’écritures et des grandes oeuvres de l’érudition bouddhiste en tibétain, qu’en sanscrit original ou en pali. Même dans les régions de langue chinoise, où se trouvent encore un grand nombre de traductions de textes bouddhistes (quoiqu’en moins grand nombre que ceux qu’on trouve en tibétain), ils sont rédigés dans une langue ancienne peu accessible aux lecteurs d’aujourd’hui. 
+
+Ce trésor inestimable de l’histoire et de la culture humaine, revêt un réel intérêt pour le monde d’aujourd’hui. Plus on perçoit les limites et les dangers du développement technologique, plus apparaît l’importance d’une voie spirituelle qui puisse insuffler des valeurs essentielles. Les enseignements du Bouddha offrent une voie fondée sur le raisonnement logique et la recherche intérieure; ils désignent clairement les causes de nos problèmes et leurs solutions; ils sont accessibles à chacun, du plus simple au plus éduqué, parce qu’ils offrent un éventail de méthodes adaptées aux différents tempéraments humains, besoins et situations. Leur but est d’abord d’aider à éliminer la souffrance et à développer une paix intérieure et universelle. Cette paix n’est pas une élaboration extérieure, mais elle peut être découverte intérieurement qui, par l’étude approfondie des textes et commentaires, et la mise en pratique de leurs instructions et de leur sagesse. 
+
+###  Le tibétain : un véhicule de sagesse 
+
+Une langue, dans sa forme la plus haute, contient et transmet du savoir. La langue tibétaine est riche d’un profond savoir acquis à travers les siècles par des érudits et des maîtres, tibétains et indiens. En effet, à partir du VII° siècle, un vaste corpus de connaissances découvert et développé au cours de l’âge d’or du bouddhisme en Inde fut systématiquement traduit en tibétain à partir du sanscrit et d’autres langues, pour être ainsi préservé longtemps après que la plupart des textes indiens originaux eussent été perdus. 
+
+###  La langue tibétaine 
+
+[ ![Tibetan characters](/images/img_tibkakha_sm.jpg) ](/images/img_tibkakha.jpg)
+
+Caractères tibétains 
+
+C’est au VIIe siécle que Thönmi Sambhota, ministre du roi Songtsen Gampo crée un alphabet tibétain inspiré des scripts indiens Devanagari. La langue tibétaine n’est cependant pas reliée à la famille des langues sanscrites dans la mesure où elle constitue elle-même un groupe n’ayant qu’une lointaine parenté avec le birman. Au VIII° et IX°siècles, commence sous l’impulsion du gouvernement tibétain la traduction de l’ensemble de la littérature bouddhiste indienne à partir des écritures canoniques, les soutras et autres parties des discours du Bouddha et de leur commentaires – les shastras – , rédigés par des maîtres bouddhistes accomplis (voir section suivante). Le tibétain classique écrit de ces traductions ne subit que peu de modifications dans les siècles suivants. A la différence de la plupart des langues anciennes, les textes classiques sont facilement compréhensibles par des Tibétains cultivés d’aujourd’hui, La proximité des langues est comparable au latin par rapport à l’italien contemporain. 
+
+Le tibétain parlé, en revanche, comporte un grand nombre de dialectes selon les régions, dont la base commune est identifiable, mais qui différent parfois au point de rendre la compréhension réciproque impossible. La prononciation, ainsi qu’un grand nombre de formes et termes dialectaux ont pu évoluer dans des directions très différentes. Le dialecte de Lhassa est généralement considéré comme la référence du bon usage. Dans la langue écrite classique, des préfixes et suffixes s’ajoutent à la lettre racine sous forme de lettres placées au dessus et au dessous la lettre racine, ce qui rend l’orthographe tibétaine redoutable pour le débutant, mais ces lettres ne s’entendent plus dans le dialecte de Lhassa d’aujourd’hui, ou tout au plus modifient-elles à peine la manière de prononcer la syllabe. On suppose toutefois qu’elles étaient autrefois intégralement prononcées, comme on peut l’entendre dans des dialectes reculés du Ladakh, à l’extrême ouest des régions parlant le tibétain, et du Golok à l’extrême est. 
+
+Malgré cette complexité apparente, il n’est pas difficile d’apprendre à lire le tibétain écrit, que ce soit dans son propre script, ou translittéré selon le système inventé par Turell Wylie, ou des systèmes proches (Wylie étendu ou EWTS, et ACIP). 
+
+Comprendre le tibétain, à la fois écrit et parlé est une entreprise beaucoup plus ardue (on trouvera des informations utiles et des liens sur le remarquable site que gère la [ Tibetan and Himalayan Digital Library,THDL ](http://www.thlib.org/) ). Mais une bonne compréhension du tibétain est incontestablement l’une des conditions essentielles pour quiconque souhaite étudier le bouddhisme en profondeur. 

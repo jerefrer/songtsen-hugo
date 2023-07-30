@@ -8,12 +8,23 @@ The goal of Songtsen is to rescue, preserve and make accessibe the cultural and 
 
 Songtsen is made up of four departments : 
 
-#####  KRF DEVELOPMENT 
+<div class="grid md:grid-cols-2">
 
-KRF Development: Support for Tibetan communities, whether in exile or in Tibet itself, helping them to preserve their identity and unique spiritual and cultural heritage.   
-KRF Development helps to create needed infrastructures and undertakes projects in education, cultural preservation, health care, environmental protection, and economic development. This work is undertaken for the benefit of threatened Himalayan communities. 
+  <div style="width: 200px"
+    {{<card
+    title="KRF Development"
+    url="/en/krf"
+    image="../krf.jpg"
+    >}}
+  </div>
 
-[ Read more ](http://www.songtsen.org/krf/)
+  <div>
+    KRF Development: Support for Tibetan communities, whether in exile or in Tibet itself, helping them to preserve their identity and unique spiritual and cultural heritage.
+    <br />
+    KRF Development helps to create needed infrastructures and undertakes projects in education, cultural preservation, health care, environmental protection, and economic development. This work is undertaken for the benefit of threatened Himalayan communities.
+  </div>
+
+</div>
 
 #####  CENTRE D’ÉTUDES DE CHANTELOUBE 
 

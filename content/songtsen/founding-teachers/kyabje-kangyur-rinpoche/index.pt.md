@@ -1,8 +1,11 @@
-#  Kangyur Rinpoche (1898-1975) 
-
-[ ![Kangyur Rinpoche](/images/img_KKR_portrait11-150x150.jpg) ](http://www.songtsen.org/songtsen/wp-content/uploads/sites/2/2013/11/img_KKR_portrait11.jpg)
-
-Kangyur Rinpoche 
+---
+  title: "Kyabje Kangyur Rinpoche<br /><small>(1898 – 1975)</small>"
+  showHero: true
+  heroStyle: "background" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur: true # only used when heroStyle equals background or thumbAndBackground
+  layoutBackgroundHeaderSpace: true # only used when heroStyle equals background
+  date: 2023-01-05
+---
 
 Kyabje Kangyur Rinpoche, Longchen Yeshe Dorje, nasceu no leste do Tibete em 1898, no ano do Cão de terra. Desde muito novo começou o estudo e prática do Dharma, tendo por mestre raiz Jedrung Rinpoche, Trinle Jampa Jungne, de Riwoche, mosteiro célebre pela sua abordagem não sectária e o seu festival anual em que os seus dois colégios principais costumavam praticar juntos. Apesar de Kangyur Rinpoche não ter sido entronado, de acordo com a tradição tibetana, como um mestre encarnado quando ainda era criança, ele foi mais tarde reconhecido como uma emanação de Namkha’i Nyingpo, um dos mais próximos discípulos de Guru Rinpoche. Enquanto tertön revelou muitos tesouros espirituais importantes, alguns dos quais enquanto era ainda muito jovem. 
 
@@ -29,16 +32,3 @@ Nos últimos vinte anos da sua vida, a preservação do Dharma tornou-se a princ
 Kyabje Kangyur Rinpoche e Kyabje Dudjom Rinpoche 
 
 Kyabje Kangyur Rinpoche faleceu em 1975, ano da Lebre de madeira. Embora nunca tivesse realizado o seu desejo de visitar a Europa e a América, ele conferia grande importância a que o Dharma de Buda fosse estabelecido no ocidente e dedicava muito do seu tempo aos ocidentais que o visitavam, muitos dos quais passaram largos meses a praticar sob a sua orientação. A seu pedido, vários mestres, nomeadamente Kyabje Dudjom Rinpoche e Kyabje Dilgo Khyentse Rinpoche fundaram o centro de retiros de Chanteloube, na Dordogne. Graças às atividades da sua consorte Jetsün Jampa Chökyi e dos seus filhos: Taklung Tsetrul Pema Wangyal Rinpoche, Rangdröl Rinpoche e Jigme Khyentse Rinpoche e ao trabalho e dedicação total das suas três filhas: Rigdzin Chödrön, Jetsün Yangchen Chödzom e Chökyi Dorje, que muitos estudantes ocidentais puderam embarcar no estudo e prática do Dharma, muitos deles durante os tradicionais retiros de três anos. 
-
-* * *
-
-Consulte as seguintes páginas, para aceder às biografias dos diretores espirituais de Chanteloube : 
-
-  * [ Dilgo Khyentse Rinpoche ](http://www.songtsen.org/songtsen/pt/founding-teachers/dilgo-khyentse-rinpoche/)
-  * [ Sua Santidade Dalai-Lama ](http://www.songtsen.org/songtsen/pt/founding-teachers/his-holiness-the-dalai-lama/)
-  * [ Jetsun Jampa Chökyi ](http://www.songtsen.org/songtsen/pt/founding-teachers/jetsun-jampa-chokyi/)
-  * [ Kyabje Dudjom Rinpoche ](http://www.songtsen.org/songtsen/pt/founding-teachers/kyabje-dudjom-rinpoche/)
-  * [ Kyabje Kangyur Rinpoche ](http://www.songtsen.org/songtsen/pt/founding-teachers/kyabje-kangyur-rinpoche/)
-  * [ Kyabje Trulshik Rinpoche ](http://www.songtsen.org/songtsen/pt/founding-teachers/kyabje-trulshik-rinpoche/)
-
-

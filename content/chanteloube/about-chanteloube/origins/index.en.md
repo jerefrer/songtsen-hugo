@@ -1,6 +1,6 @@
 #  Origins 
 
-[ ![img_kangyour_rinpoche](/images/img_kangyour_rinpoche-150x150.jpg) ](http://www.songtsen.org/chanteloube/wp-content/uploads/sites/5/2013/11/img_kangyour_rinpoche.jpg)
+[ ![img_kangyour_rinpoche](/images/img_kangyour_rinpoche-150x150.jpg) ](img_kangyour_rinpoche.jpg)
 
 Kangyur Rinpoche 
 
@@ -8,7 +8,7 @@ The origins of Chanteloube go back to the early 1960s, when a small group of Wes
 
 In those years, was difficult for most Europeans to obtain visas allowing them to stay and practice for any length of time in Darjeeling. Kangyur Rinpoche therefore accepted the invitation of his students to teach and establish the Dharma in Europe. However, in 1972, Kyabje Dudjom Rinpoche, who was living in nearby Kalimpong, visited the West for the first time. Kangyur Rinpoche was well aware that Dudjom Rinpoche was a master of very great accomplishment, for they had both been disciples of the same root teacher, Thrinlé Jampa Jungné, Jedrung Rinpoche of Riwoche. Kangyur Rinpoche therefore sent his eldest son, Pema Wangyal Rinpoche, to request Dudjom Rinpoche to include France in his itinerary and to give teachings to a group of students living there. And so it happened that Dudjom Rinpoche first visited Dordogne and, in 1976, consecrated the land of Chanteloube. 
 
-[ ![img_groupe_rinpoche](/images/img_groupe_rinpoche-150x150.jpg) ](http://www.songtsen.org/chanteloube/wp-content/uploads/sites/5/2013/11/img_groupe_rinpoche.jpg)
+[ ![img_groupe_rinpoche](/images/img_groupe_rinpoche-150x150.jpg) ](img_groupe_rinpoche.jpg)
 
 Dilgo Khyentse Rinpoche, Dudjom Rinpoche, and Trulshik Rinpoche 
 
@@ -16,7 +16,7 @@ Also very close to Kangyur Rinpoche was another great master, Kyabje Dilgo Khyen
 
 The land of the future retreat centre was blessed and consecrated by Dudjom Rinpoche, Kalu Rinpoche, Dilgo Khyentse and also by the 16th Gyalwa Karmapa, whom Kangyur Rinpoche had also requested to visit Dordogne during his journey to the West in order to teach this students there. 
 
-[ ![img_amala_1](/images/img_amala_1-150x150.jpg) ](http://www.songtsen.org/chanteloube/wp-content/uploads/sites/5/2013/11/img_amala_1.jpg)
+[ ![img_amala_1](/images/img_amala_1-150x150.jpg) ](img_amala_1.jpg)
 
 Jetsun Jampa Chökyi 
 

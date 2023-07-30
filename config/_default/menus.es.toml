@@ -1,0 +1,156 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+# 
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+
+#[[main]]
+#  name = "Blog"
+#  pageRef = "posts"
+#  weight = 10
+
+[[main]]
+  name = "Songtsen"
+  pageRef = "songtsen"
+  weight = 1
+
+  [[main]]
+    name = "About Songtsen"
+    parent = "Songtsen"
+    pageRef = "songtsen"
+    weight = 1
+
+  [[main]]
+    name = "Founding teachers"
+    parent = "Songtsen"
+    pageRef = "songtsen/founding-teachers"
+    weight = 2
+
+    [[main]]
+      name = "His Holiness the Dalai-Lama"
+      parent = "Founding Teachers"
+      pageRef = "songtsen/founding-teachers/his-holiness-the-dalai-lama"
+      weight = 1
+    [[main]]
+      name = "Kyabje Kangyur Rinpoche"
+      parent = "Founding Teachers"
+      pageRef = "songtsen/founding-teachers/kyabje-kangyur-rinpoche"
+      weight = 2
+    [[main]]
+      name = "Dilgo Khyentse Rinpoche"
+      parent = "Founding Teachers"
+      pageRef = "songtsen/founding-teachers/dilgo-khyentse-rinpoche"
+      weight = 3
+    [[main]]
+      name = "Kyabje Dudjom Rinpoche"
+      parent = "Founding Teachers"
+      pageRef = "songtsen/founding-teachers/kyabje-dudjom-rinpoche"
+      weight = 4
+    [[main]]
+      name = "Kyabje Trulshik Rinpoche"
+      parent = "Founding Teachers"
+      pageRef = "songtsen/founding-teachers/kyabje-trulshik-rinpoche"
+      weight = 5
+    [[main]]
+      name = "Jetsun Jampa Chökyi"
+      parent = "Founding Teachers"
+      pageRef = "songtsen/founding-teachers/jetsun-jampa-chokyi"
+      weight = 6
+
+  [[main]]
+    name = "Spiritual Directors"
+    parent = "Songtsen"
+    pageRef = "songtsen/spiritual-directors"
+
+    [[main]]
+      name = "Pema Wangyal Rinpoche"
+      parent = "Spiritual Directors"
+      pageRef = "songtsen/spiritual-directors/pema-wangyal-rinpoche"
+    [[main]]
+      name = "Jigme Khyentse Rinpoche"
+      parent = "Spiritual Directors"
+      pageRef = "songtsen/spiritual-directors/jigme-khyentse-rinpoche"
+    [[main]]
+      name = "Tsawa Rinam Rinpoche (Rangdröl Rinpoche)"
+      parent = "Spiritual Directors"
+      pageRef = "songtsen/spiritual-directors/rangdröl-rinpoche"
+
+[[main]]
+  name = "KRF development"
+  pageRef = "krf"
+  weight = 2
+
+[[main]]
+  name = "Padmakara"
+  pageRef = "padmakara"
+  weight = 3
+
+[[main]]
+  name = "Chanteloube"
+  pageRef = "chanteloube"
+  weight = 4
+
+[[main]]
+  name = "Siddhartha"
+  pageRef = "siddhartha"
+  weight = 5
+
+
+#[[main]]
+#  name = "Parent"
+#  weight = 20
+
+#[[main]]
+#  name = "example sub-menu 1"
+#  parent = "Parent"
+#  pageRef = "posts"
+#  weight = 20
+
+#[[main]]
+#  name = "example sub-menu 2"
+#  parent = "Parent"
+#  pageRef = "posts"
+#  weight = 20
+
+#[[subnavigation]]
+#  name = "An interesting topic"
+#  pageRef = "tags/interesting-topic"
+#  weight = 10
+
+#[[subnavigation]]
+#  name = "My Awesome Category"
+#  pre = "github"
+#  pageRef = "categories/awesome"
+#  weight = 20
+
+#[[main]]
+#  name = "Categories"
+#  pageRef = "categories"
+#  weight = 20
+
+#[[main]]
+#  name = "Tags"
+#  pageRef = "tags"
+#  weight = 30
+
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+
+# [[footer]]
+#   name = "Tags"
+#   pageRef = "tags"
+#   weight = 10
+
+# [[footer]]
+#   name = "Categories"
+#   pageRef = "categories"
+#   weight = 20
