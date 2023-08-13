@@ -1,4 +1,6 @@
-#  How to make a donation 
+---
+title: How to make a donation
+---
 
 ##  Helping KRF 
 

@@ -40,9 +40,39 @@
 
 
 [[main]]
-  name = "KRF development"
+  name = "KRF Development"
   pageRef = "krf"
   weight = 2
+
+  [[main]]
+    name = "About KRF"
+    parent = "KRF Development"
+    pageRef = "krf"
+    weight = 1
+
+  [[main]]
+    name = "Origins"
+    parent = "KRF Development"
+    pageRef = "krf/origins"
+    weight = 1
+
+  [[main]]
+    name = "Objectives"
+    parent = "KRF Development"
+    pageRef = "krf/objectives"
+    weight = 2
+
+  [[main]]
+    name = "Projects"
+    parent = "KRF Development"
+    pageRef = "krf/projects"
+    weight = 3
+
+  [[main]]
+    name = "How to make a donation"
+    parent = "KRF Development"
+    pageRef = "krf/how-to-make-a-donation"
+    weight = 4
 
 [[main]]
   name = "Padmakara"

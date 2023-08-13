@@ -1,0 +1,49 @@
+{{ $disableImageOptimization := .Site.Params.disableImageOptimization | default false }}
+{{ $url := urls.Parse (.Get "src") }}
+{{ $altText := .Get "alt" }}
+{{ $caption := .Get "caption" }}
+{{ $href := .Get "href" }}
+{{ $class := .Get "class" }}
+
+<section class="spotlight">
+  <div class="image {{ $class }}">
+    {{ if findRE "^https?" $url.Scheme }}
+      <img src="{{ $url.String }}" alt="{{ $altText }}" />
+      {{ with $caption }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
+    {{ else }}
+      {{ $resource := "" }}
+      {{ if $.Page.Resources.GetMatch ($url.String) }}
+        {{ $resource = $.Page.Resources.GetMatch ($url.String) }}
+      {{ else if resources.GetMatch ($url.String) }}
+        {{ $resource = resources.Get ($url.String) }}
+      {{ end }}
+      {{ with $resource }}
+        {{ with $href }}<a href="{{ . }}">{{ end }}
+          {{ if $disableImageOptimization }}
+          <img
+            src="{{ .RelPermalink }}"
+            alt="{{ $altText }}"
+          />
+          {{ else }}
+          <img
+            srcset="
+            {{ (.Resize "330x").RelPermalink }} 330w,
+            {{ (.Resize "660x").RelPermalink }} 660w,
+            {{ (.Resize "1024x").RelPermalink }} 1024w,
+            {{ (.Resize "1320x").RelPermalink }} 2x"
+            src="{{ (.Resize "660x").RelPermalink }}"
+            alt="{{ $altText }}"
+          />
+          {{ end }}
+        {{ if $href }}</a>{{ end }}
+        {{ with $caption }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
+      {{ else }}
+        <img src="{{ $url.String }}" alt="{{ $altText }}" />
+        {{ with $caption }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
+      {{ end }}
+    {{ end }}
+  </div>
+  <div class="content">
+    {{ .Inner | markdownify }}
+  </div>
+</section>
