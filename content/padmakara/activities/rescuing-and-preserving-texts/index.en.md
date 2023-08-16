@@ -1,6 +1,6 @@
-#  Rescuing and preserving texts 
-
-##  Rescuing and preserving texts 
+---
+title: "Rescuing and preserving texts"
+---
 
 ###  The treasures of Tibetan literature at risk 
 

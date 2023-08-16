@@ -1,4 +1,6 @@
-#  Translation 
+---
+title: "Translation"
+---
 
 ##  The translation of Tibetan texts 
 

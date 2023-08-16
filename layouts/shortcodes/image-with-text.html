@@ -4,11 +4,20 @@
 {{ $caption := .Get "caption" }}
 {{ $href := .Get "href" }}
 {{ $class := .Get "class" }}
+{{ $linkOnImage := .Get "link-on-image" }}
+
+{{ $maybeNoZoom := "" }}
+{{ if $linkOnImage }}
+  {{ $maybeNoZoom = "nozoom" }}
+{{ end }}
 
 <section class="spotlight">
   <div class="image {{ $class }}">
+    {{ if $linkOnImage }}
+    <a href="{{ $linkOnImage }}">
+    {{ end }}
     {{ if findRE "^https?" $url.Scheme }}
-      <img src="{{ $url.String }}" alt="{{ $altText }}" />
+      <img src="{{ $url.String }}" alt="{{ $altText }}" class="{{ $maybeNoZoom }}" />
       {{ with $caption }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
     {{ else }}
       {{ $resource := "" }}
@@ -23,6 +32,7 @@
           <img
             src="{{ .RelPermalink }}"
             alt="{{ $altText }}"
+            class="{{ $maybeNoZoom }}"
           />
           {{ else }}
           <img
@@ -33,14 +43,18 @@
             {{ (.Resize "1320x").RelPermalink }} 2x"
             src="{{ (.Resize "660x").RelPermalink }}"
             alt="{{ $altText }}"
+            class="{{ $maybeNoZoom }}"
           />
           {{ end }}
         {{ if $href }}</a>{{ end }}
         {{ with $caption }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
       {{ else }}
-        <img src="{{ $url.String }}" alt="{{ $altText }}" />
+        <img src="{{ $url.String }}" alt="{{ $altText }}" class="{{ $maybeNoZoom }}" />
         {{ with $caption }}<figcaption>{{ . | markdownify }}</figcaption>{{ end }}
       {{ end }}
+    {{ end }}
+    {{ if $linkOnImage }}
+    </a>
     {{ end }}
   </div>
   <div class="content">

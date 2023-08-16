@@ -31,3 +31,9 @@ The rapid spread of Tibetan Buddhism in the West, called forth by keen interest 
 
 Strongly focussed on the need to preserve the Buddhist culture of Tibet, KRF Development works to safeguard the identity of Himalayan communities by providing the kind of infrastructure necessary for the preservation and tranmission of their cultural patrimony. Its particular targets are groups who do not benefit from other international aid programmes.
 {{</image-with-text>}}
+
+<center style="margin-top: 6em">
+
+### More about KRF :
+
+</center>

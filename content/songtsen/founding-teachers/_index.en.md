@@ -1,9 +1,5 @@
 ---
-  title: "The founding teachers "
-  showHero: true
-  heroStyle: "background" # valid options: basic, big, background, thumbAndBackground
-  layoutBackgroundBlur: true # only used when heroStyle equals background or thumbAndBackground
-  layoutBackgroundHeaderSpace: true # only used when heroStyle equals background
+  title: "The founding teachers"
 ---
 
 Chanteloube’s founding teachers are Kyabje Kangyur Rinpoche, Kyabje Dudjom Rinpoche and Kyabje Dilgo Khyentse Rinpoche, who are considered as three of the greatest luminaries of Tibetan Buddhism of the 20th century. 

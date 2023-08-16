@@ -1,4 +1,6 @@
-#  Publishing & distribution 
+---
+title: "Publishing & distribution"
+---
 
 ##  Padmakara Publishing 
 

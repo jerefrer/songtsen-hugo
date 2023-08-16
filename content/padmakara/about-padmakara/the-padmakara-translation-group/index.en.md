@@ -1,4 +1,6 @@
-#  The Padmakara Translation Group 
+---
+title: "The Padmakara Translation Group"
+---
 
 ##  A multinational group of translators 
 

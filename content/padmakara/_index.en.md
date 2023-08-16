@@ -2,9 +2,9 @@
 title: "About Padmakara"
 ---
 
-##  Literature of a living tradition [ ![img_logo_songtsen_150](/images/img_logo_songtsen_150.jpg) ](/images/img_logo_songtsen_150.jpg)
+##  Literature of a living tradition
 
-Padmakara was founded in 1987, in Dordogne, France, and is directed by Tsetul Pema Wangyal Rinpoche and Jigme Khyentse Rinpoche. 
+Padmakara was founded in 1987, in Dordogne, France, and is directed by Tsetrul Pema Wangyal Rinpoche and Jigme Khyentse Rinpoche.
 
 Padmakara is the department of Songtsen responsible for the preservation, translation and publication of Tibetan texts. Its principal aim is to preserve and communicate to a Western audience the major texts of classic and contemporary Tibetan literature, particularly works on Buddhist philosophy and practice. 
 
@@ -24,7 +24,20 @@ This wisdom, still held by authentic teachers, is the subject of growing interes
 
 To achieve these aims, Padmakara has defined four main areas of ongoing activity : 
 
-  * **Translation** Accurate and literate translation of Tibetan texts and oral teachings into Western languages, through the collaboration of authoritative Tibetan scholars and trained Western translators. 
-  * **Publishing:** Publishing those translations and distributing them internationally, some under Padmakara’s own imprint, Éditions Padmakara, and others through major publishers. 
-  * **Rescuing and preserving texts :** cataloguing, and reproducing Tibetan manuscripts, xylographs, and printed books. 
-  * **Audio archiving :** Recording, archival and distribution on audio media of oral teachings given by contemporary Tibetan masters. 
+### Translation
+Accurate and literate translation of Tibetan texts and oral teachings into Western languages, through the collaboration of authoritative Tibetan scholars and trained Western translators.
+
+### Publishing
+Publishing those translations and distributing them internationally, some under Padmakara’s own imprint, Éditions Padmakara, and others through major publishers.
+
+### Rescuing and preserving texts
+cataloguing, and reproducing Tibetan manuscripts, xylographs, and printed books.
+
+### Audio archiving
+Recording, archival and distribution on audio media of oral teachings given by contemporary Tibetan masters.
+
+<center style="margin-top: 6em">
+
+### More about Padmakara :
+
+</center>

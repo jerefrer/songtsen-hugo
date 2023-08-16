@@ -1,9 +1,5 @@
 ---
   title: "Les maîtres fondateurs"
-  showHero: true
-  heroStyle: "background" # valid options: basic, big, background, thumbAndBackground
-  layoutBackgroundBlur: true # only used when heroStyle equals background or thumbAndBackground
-  layoutBackgroundHeaderSpace: true # only used when heroStyle equals background
 ---
 
 Les maîtres fondateurs de Chanteloube sont Kyabjé Kangyour Rinpotché, Kyabjé Dudjom Rinpotché et Kyabjé Dilgo Khyentsé Rinpotché, qui sont considérés dans la tradition bouddhiste tibétaine comme trois des maîtres parmi les plus éminents du 20e siècle. 

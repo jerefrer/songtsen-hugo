@@ -1,4 +1,6 @@
-#  Introduction to Tibetan alphabet 
+---
+title: "Introduction to Tibetan alphabet"
+---
 
 ![01 tib consonnes](/images/01-tib-consonnes.jpg)
 

@@ -1,4 +1,6 @@
-#  Library 
+---
+title: "Library"
+---
 
 ##  The library project: a facility for text preservation, research, & translation 
 

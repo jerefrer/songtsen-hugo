@@ -54,30 +54,54 @@
     name = "Origins"
     parent = "KRF Development"
     pageRef = "krf/origins"
-    weight = 1
+    weight = 2
 
   [[main]]
     name = "Objectives"
     parent = "KRF Development"
     pageRef = "krf/objectives"
-    weight = 2
+    weight = 3
 
   [[main]]
     name = "Projects"
     parent = "KRF Development"
     pageRef = "krf/projects"
-    weight = 3
+    weight = 4
 
   [[main]]
     name = "How to make a donation"
     parent = "KRF Development"
     pageRef = "krf/how-to-make-a-donation"
-    weight = 4
+    weight = 5
 
 [[main]]
   name = "Padmakara"
   pageRef = "padmakara"
   weight = 3
+
+  [[main]]
+    name = "About Padmakara"
+    parent = "Padmakara"
+    pageRef = "padmakara"
+    weight = 1
+
+  [[main]]
+    name = "Activities"
+    parent = "Padmakara"
+    pageRef = "padmakara/activities"
+    weight = 2
+
+  [[main]]
+    name = "Projects "
+    parent = "Padmakara"
+    pageRef = "padmakara/projects"
+    weight = 3
+
+  [[main]]
+    name = "Resources"
+    parent = "Padmakara"
+    pageRef = "padmakara/resources"
+    weight = 4
 
 [[main]]
   name = "Chanteloube"

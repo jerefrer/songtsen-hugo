@@ -1,9 +1,5 @@
 ---
-  title: "Los maestros fundadores "
-  showHero: true
-  heroStyle: "background" # valid options: basic, big, background, thumbAndBackground
-  layoutBackgroundBlur: true # only used when heroStyle equals background or thumbAndBackground
-  layoutBackgroundHeaderSpace: true # only used when heroStyle equals background
+  title: "Los maestros fundadores"
 ---
 
 Los maestros fundadores de Chanteloube son Kyabje Kangyur Rimpoché, Kyabje Dudjom Rimpoché y Kyabje Dilgo Khyentse Rimpoché, tres de los maestros más ilustres del budismo tibetano del siglo veinte. 

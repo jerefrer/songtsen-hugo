@@ -1,4 +1,6 @@
-#  Tibetan fonts and software 
+---
+title: "Tibetan fonts and software"
+---
 
 ##  Page under construction 
 

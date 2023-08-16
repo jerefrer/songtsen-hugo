@@ -1,4 +1,6 @@
-#  Tibetan dictionaries 
+---
+title: "Tibetan dictionaries"
+---
 
 Tibetan-English dictionaries are available in various forms and media: for use online (with an internet connection); as files or programs on CD-ROM or as downloads for use offline (within applications or as stand-alones); and as books. Many are available in more than one of these ways. 
 

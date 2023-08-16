@@ -1,4 +1,6 @@
-#  About Siddhartha 
+---
+title: "About Siddhartha"
+---
 
 Siddhartha is the branch of Songtsen dedicated to the help of children in need, particularly children in the Himalayan regions. Its aim is to give them access to an education within the environment of their own cultural and spiritual traditions: providing with schooling while allowing and encouraging them to retain their own cultural identity. 
 

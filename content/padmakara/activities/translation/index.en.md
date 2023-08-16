@@ -1,4 +1,6 @@
-#  Translation 
+---
+title: "Translation"
+---
 
 The translation of texts is a key to the preservation of the integrity of the Tibetan culture and its dissemination to the western audience. The first objective is to focus on the most important root texts and comments that may well be conventional media studies helpful to Buddhist masters to interested readers who may lead them to a true understanding of the text. 
 

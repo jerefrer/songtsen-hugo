@@ -1,4 +1,6 @@
-#  Acerca de KRF 
+---
+title: Acerca de KRF
+---
 
 [ ![Kangyur Rimpoché](/images/img_kangyur_rinpoche-150x150.jpg) ](http://www.songtsen.org/krf/wp-content/uploads/sites/3/2013/12/img_kangyur_rinpoche.jpg)
 

@@ -107,7 +107,7 @@ nav a:hover {
   height: 100%;
   background-position: center;
   background-size: cover;
-  filter: blur(1px) grayscale(0.2);
+  filter: grayscale(0.2);
   transition: 0.4s ease-in-out;
   transform: rotate(-0.5deg) scale(1.1);
   z-index: 1;
@@ -190,8 +190,15 @@ nav a:hover {
 }
 
 
+
+#single_header h1 {
+  margin-top: 1.25rem;
+}
+
+
+
 .thumbnail_card {
-  filter: blur(1px) grayscale(0.2);
+  filter: grayscale(0.2);
   transition: 0.4s ease-in-out;
   transform: rotate(-0.5deg) scale(1.1);
 }
@@ -254,7 +261,7 @@ nav a:hover {
           margin: 0;
         }
 
-        .spotlight > .image:before {
+/*        .spotlight > .image:before {
           content: '';
           display: block;
           height: 100%;
@@ -263,7 +270,7 @@ nav a:hover {
           position: absolute;
           top: 0;
           width: 100%;
-        }
+        }*/
 
       .spotlight > .content {
         display: -moz-flex;
@@ -382,6 +389,15 @@ nav a:hover {
         .spotlight > .content {
           padding: 4em 3em 2em 3em ;
           width: 100%;
+          -moz-align-items: -moz-flex-start !important;
+          -webkit-align-items: -webkit-flex-start !important;
+          -ms-align-items: -ms-flex-start !important;
+          align-items: flex-start !important;
+        }
+
+        .spotlight > .content {
+          align-items: start !important;
+          text-align: left !important;
         }
 
     }

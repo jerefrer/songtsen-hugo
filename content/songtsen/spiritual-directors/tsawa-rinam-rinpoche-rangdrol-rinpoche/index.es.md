@@ -1,6 +1,5 @@
 ---
-title: "Tsawa Rinam Rinpoche (Rangdröl Rinpoche)"
-description: "Rangdrol Rinpoche is the second son of Kangyur Rinpoche."
+title: "Tsawa Rinam Rinpoche<br /><small>(Rangdröl Rinpoche)</small>"
 date: 2023-07-19
 ---
 

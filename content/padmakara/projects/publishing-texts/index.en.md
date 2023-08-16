@@ -1,4 +1,6 @@
-#  Publishing texts 
+---
+title: "Publishing texts"
+---
 
 ##  Project publications: Padmakara help print books and practice texts 
 

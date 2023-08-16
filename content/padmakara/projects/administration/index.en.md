@@ -1,4 +1,6 @@
-#  Administration 
+---
+title: "Administration"
+---
 
 ##  Administration: sponsoring administrative staff salaries 
 

@@ -1,4 +1,6 @@
-#  Background & history 
+---
+title: "Background & history"
+---
 
 [ ![Background & history](/images/img_textes_anciens.jpg) ](/images/img_textes_anciens_la.jpg)
 

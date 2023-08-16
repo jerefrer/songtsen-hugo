@@ -1,4 +1,6 @@
-#  Scholarships for new translators 
+---
+title: "Scholarships for new translators"
+---
 
 ##  Scholarships for new translators: training a new generation 
 
