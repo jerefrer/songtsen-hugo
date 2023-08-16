@@ -1,18 +1,20 @@
-<a href="{{ .Get "url" }}" class="home-card cursor-pointer">
+<a href="{{ .Get "url" }}" class="card cursor-pointer">
 
   <div
-    class="p-5 image w-full nozoom flex items-start justify-center"
+    class="p-5 w-full nozoom flex items-start justify-center"
     style="background-image:url({{ .Get "image" }});"
-  ></div>
+  >
 
-  <div class="content mt-20 px-4 text-md">
+    <div class="description mt-20 text-md">
 
-    <h3 class="mb-3 text-xl">
-      {{ .Get "title" | markdownify | emojify }}
-    </h3>
+      <h3 class="mb-3 font-bold text-xl">
+        {{ .Get "title" | markdownify | emojify }}
+      </h3>
 
-    <div class="description text-gray-800">
-      {{ .Get "description" | markdownify | emojify }}
+      <div class="text-gray-800">
+        {{ .Get "description" | markdownify | emojify }}
+      </div>
+
     </div>
 
   </div>

@@ -93,74 +93,41 @@ nav a:hover {
 .homepage .grid {
 }
 
-.home-card {
-  display: block;
+.homepage .card > div {
   position: relative;
-  height: auto;
-  min-height: 260px;
-  transition: transform 0.25s ease, opacity 0.25s ease, filter 1s ease, -webkit-filter 1s ease;
-  overflow: hidden;
-}
-
-.home-card .image {
-  position: absolute;
-  height: 100%;
+  height: 260px;
   background-position: center;
+  background-repeat: no-repeat;
   background-size: cover;
-  filter: grayscale(0.2);
-  transition: 0.4s ease-in-out;
-  transform: rotate(-0.5deg) scale(1.1);
-  z-index: 1;
+  text-shadow: 0 0 3px black, 0 0 5px black, 0 0 10px black !important;
+  transition: transform 0.25s ease, opacity 0.25s ease, filter 1s ease, -webkit-filter 1s ease;
 }
-.home-card:hover .image {
-  filter: none;
-  transform: rotate(0deg) scale(1.15);
+.homepage .card > div:before {
+  background-color: black;
 }
-
-.home-card .content {
-  position: relative;
-  text-shadow: 0 0 5px black;
+.homepage .card > div:hover:before {
+  opacity: 0;
+}
+.homepage .card > div:hover .description {
+}
+.homepage .card > div:before {
+  -moz-transition: opacity 0.5s ease;
+  -webkit-transition: opacity 0.5s ease;
+  -ms-transition: opacity 0.5s ease;
+  transition: opacity 0.5s ease;
+  bottom: 0;
+  content: '';
+  display: block;
+  height: 100%;
+  left: 0;
+  opacity: 0.65;
+  position: absolute;
+  width: 100%;
   z-index: 2;
 }
-
-.home-card .content h3 {
-  font-family: 'Calligraph421BTRoman',Georgia,Times,serif !important;
-  font-size: 1.55em;
-  transition: 0.4s ease-in-out;
+.homepage .card > div .description {
+  z-index: 3;
 }
-.home-card .content h3 span {
-  font-weight: 800;
-}
-.home-card .content .description {
-  font-family: Georgia,Times,serif !important;
-  line-height: 1.15em;
-}
-
-.home-card h3 {
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  padding: 1em 1.2em;
-}
-
-.home-card .description {
-  padding: 0 10px 0 0;
-  width: 50%;
-  border-right: 1px solid #fff;
-  text-align: right;
-  opacity: 0;
-  -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
-  transition: opacity 0.35s, transform 0.35s;
-  -webkit-transform: translate3d(-40px,0,0);
-  transform: translate3d(-40px,0,0);
-}
-
-.home-card:hover .description {
-  opacity: 1;
-  -webkit-transform: translate3d(0,0,0);
-  transform: translate3d(0,0,0);
-}
-
 
 
 
