@@ -1,4 +1,6 @@
-#  Drupchens 
+---
+title: "Drupchens"
+---
 
 [ ![Mandala tridimensional](/images/img_drouptchene-150x150.jpg) ](img_drouptchene.jpg)
 

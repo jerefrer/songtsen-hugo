@@ -108,6 +108,48 @@
   pageRef = "chanteloube"
   weight = 4
 
+  [[main]]
+    name = "About chanteloube"
+    parent = "Chanteloube"
+    pageRef = "chanteloube"
+    weight = 1
+
+  [[main]]
+    name = "The Chanteloube Stupas"
+    parent = "Chanteloube"
+    pageRef = "chanteloube/the-stupas"
+    weight = 2
+
+  [[main]]
+    name = "Origins"
+    parent = "Chanteloube"
+    pageRef = "chanteloube/origins"
+    weight = 3
+
+  [[main]]
+    name = "Activities"
+    parent = "Chanteloube"
+    pageRef = "chanteloube/activities"
+    weight = 4
+
+  [[main]]
+    name = "Programs & Events"
+    parent = "Chanteloube"
+    pageRef = "chanteloube/events"
+    weight = 5
+
+  [[main]]
+    name = "Practical details"
+    parent = "Chanteloube"
+    pageRef = "chanteloube/practical-details"
+    weight = 6
+
+  [[main]]
+    name = "Become a member"
+    parent = "Chanteloube"
+    pageRef = "chanteloube/become-a-member"
+    weight = 7
+
 [[main]]
   name = "Siddhartha"
   pageRef = "siddhartha"
@@ -116,53 +158,55 @@
     [[main]]
       name = "About Siddhartha"
       parent = "Siddhartha"
-      pageRef = "siddhartha/about-siddhartha"
+      pageRef = "siddhartha"
       weight = 1
+
+    [[main]]
+      name = "Our goals"
+      parent = "Siddhartha"
+      pageRef = "siddhartha/our-goals"
+      weight = 2
+
+    [[main]]
+      name = "How Siddhartha helps"
+      parent = "Siddhartha"
+      pageRef = "siddhartha/how-siddhartha-helps"
+      weight = 3
+
+    [[main]]
+      name = "How Siddhartha works"
+      parent = "Siddhartha"
+      pageRef = "siddhartha/how-siddhartha-works"
+      weight = 4
 
     [[main]]
       name = "Projects"
       parent = "Siddhartha"
       pageRef = "siddhartha/projects"
-      weight = 2
+      weight = 5
 
-
-
-#[[main]]
-#  name = "Parent"
-#  weight = 20
-
-#[[main]]
-#  name = "example sub-menu 1"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
-
-#[[main]]
-#  name = "example sub-menu 2"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
 
 [[subnavigation]]
- name = "An interesting topic"
- pageRef = "tags/interesting-topic"
+ name = "Events"
+ pageRef = "chanteloube/events"
  weight = 10
-
 [[subnavigation]]
- name = "My Awesome Category"
- pre = "github"
- pageRef = "categories/awesome"
+ name = "How to get there"
+ pageRef = "chanteloube/practical-details/how-to-get-there"
  weight = 20
+[[subnavigation]]
+ name = "On line bookshop"
+ url = "https://www.padmakara.com"
+ weight = 30
+[[subnavigation]]
+ name = "Newsletter"
+ pageRef = "songtsen/newsletter"
+ weight = 40
+[[subnavigation]]
+ name = "Contact"
+ pageRef = "songtsen/contact"
+ weight = 50
 
-#[[main]]
-#  name = "Categories"
-#  pageRef = "categories"
-#  weight = 20
-
-#[[main]]
-#  name = "Tags"
-#  pageRef = "tags"
-#  weight = 30
 
 
 # -- Footer Menu --

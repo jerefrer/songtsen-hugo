@@ -1,4 +1,6 @@
-#  Lhodrak Kharchhu Monastery 
+---
+title: "Lhodrak Kharchhu Monastery"
+---
 
 The monastery of Lhodrak Kharchhu, situated in the valley of Bumthang in north-east Bhutan, was founded by Namkhai Nyingpo Rinpoche in 1984.Namkhai Nyingpo Rinpoche was recognized at a very young age by H.H. the Dalai Lama and H.H. the 16th Karmapa, as the incarnation of a Tibetan lama whose spiritual lineage dates back to one of the closest disciples of the great 8th century Master Padmasambhava. Namkhai Nyingpo Rinpoche was a close student of Kyabje Dilgo Khyentse Rinpoche. 
 

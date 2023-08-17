@@ -1,4 +1,6 @@
-#  Normas de Chanteloube 
+---
+title: "Normas de Chanteloube"
+---
 
 Pedimos a todos los que asisten a los eventos organizados por la Asociación que eviten el consumo de carne y pescado, así como fumar y consumir alcohol u otros estupefacientes. Asimismo, rogamos que los visitantes mantengan una conducta pacífica y respetuosa en todo momento. 
 

@@ -1,4 +1,6 @@
-#  Become a member 
+---
+title: "Become a member"
+---
 
 The Association du Centre d’Etudes de Chanteloube is a non-profit-making organisation according the law of 1901, registered at the Sub-Prefecture at Sarlat. 
 

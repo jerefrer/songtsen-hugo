@@ -1,4 +1,6 @@
-#  A propos de Chanteloube 
+---
+title: "A propos de Chanteloube"
+---
 
 ##  Le Centre d’Études de Chanteloube 
 

@@ -1,4 +1,6 @@
-#  Monasterio de Lhodrak Kharchu 
+---
+title: "Monasterio de Lhodrak Kharchu"
+---
 
 El monasterio de Lhodrak Kharchu, situado en el valle de Bumthang al noreste de Bután, fue fundado por Namkhai Ñingpo Rimpoché en 1984. Namkhai Ñingpo Rimpoché fue reconocido a una edad muy temprana por S.S. el Dalai Lama y S.S. el 16º Karmapa como la reencarnación de un lama tibetano cuyo linaje espiritual se remonta a uno de los discípulos más cercanos de Padmasambhava, gran maestro del siglo VIII. Namkhai Ñingpo Rimpoché fue un estudiante cercano a Kyabje Dilgo Khyentse Rimpoché. 
 

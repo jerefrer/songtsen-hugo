@@ -1,4 +1,6 @@
-#  Guru Lhakang Gompa 
+---
+title: "Guru Lhakang Gompa"
+---
 
 ##  The monastery of Guru Lhakhang 
 

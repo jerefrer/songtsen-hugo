@@ -1,4 +1,6 @@
-#  Como chegar 
+---
+title: "Como chegar"
+---
 
 ##  ![ico_car](/images/ico_car.png) Como chegar a Chanteloube de automóvel 
 

@@ -1,4 +1,6 @@
-#  Grupos afiliados 
+---
+title: "Grupos afiliados"
+---
 
 Existen grupos afiliados a Songsten en Francia y en otros países. Estos grupos están formados por personas que ayudan a organizar las actividades de Songtsen y que se reúnen para practicar juntos de manera regular. En Francia, dichos grupos se encuentran en París, Burdeos y Bretaña. 
 

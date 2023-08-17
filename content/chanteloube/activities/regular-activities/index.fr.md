@@ -1,4 +1,6 @@
-#  Activités régulières 
+---
+title: "Activités régulières"
+---
 
 [ ![Padmasambhava, Guru Rinpoche](/images/img_guru_rinpoche-150x150.jpg) ](img_guru_rinpoche.jpg)
 

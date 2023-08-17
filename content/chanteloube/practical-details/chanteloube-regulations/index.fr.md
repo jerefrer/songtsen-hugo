@@ -1,4 +1,6 @@
-#  Quelques règles 
+---
+title: "Quelques règles"
+---
 
 Lors de toute manifestation organisée par l’association, il est demandé aux participants de ne pas fumer, consommer d’alcool ou de stupéfiants, et de ne pas manger de viande ou de poisson. Il est demandé à tous (participants et visiteurs) de maintenir une attitude paisible et respectueuse en toute circonstance. 
 

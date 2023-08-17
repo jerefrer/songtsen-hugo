@@ -1,4 +1,6 @@
-#  Accomodation 
+---
+title: "Accomodation"
+---
 
 Lodging and accommodation The Centre d’Etudes de Chanteloube does not operate on a permanent basis and has no resident staff. Lodging provided by the Centre is extremely limited and generally restricted to organisational staff. Those who wish to participate in the events are asked to find lodging in the locality. Since this is a very touristic region, there is no shortage of accommodation available: hotels, camping sites, Dharma centres, gites, bed and breakfast etc. 
 

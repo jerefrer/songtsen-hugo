@@ -1,4 +1,6 @@
-#  Groupe affiliés 
+---
+title: "Groupe affiliés"
+---
 
 Les groupes affiliés à Songtsen réunissent en France et dans d’autres pays ceux qui soutiennent ses activités et se réunissent régulièrement pour pratiquer. En France, il existe un groupe à Paris, à Bordeaux et en Bretagne. 
 

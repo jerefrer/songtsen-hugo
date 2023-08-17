@@ -1,4 +1,6 @@
-#  Alojamento 
+---
+title: "Alojamento"
+---
 
 [ Hébergement-02-19 ](http://www.songtsen.org/chanteloube/wp-content/uploads/sites/5/2019/03/Hébergement-02-19.pdf) [ Hébergement-02-19 ](http://www.songtsen.org/chanteloube/wp-content/uploads/sites/5/2019/02/Hébergement-02-19.pdf) O Centro de Estudos de Chanteloube não fornece alojamento de forma permanente e não tem pessoal residente. 
 

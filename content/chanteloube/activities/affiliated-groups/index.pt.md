@@ -1,4 +1,6 @@
-#  Grupos associados 
+---
+title: "Grupos associados"
+---
 
 Os grupos associados com à Songtsen, noutros países e locais de França, são formados por pessoas que ajudam nas nossas atividades e que se encontram de forma regular para praticar. Em França, estes grupos existem em Paris, Bordéus e na Bretanha. 
 

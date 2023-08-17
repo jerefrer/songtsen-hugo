@@ -1,4 +1,6 @@
-#  Cómo llegar 
+---
+title: "Cómo llegar"
+---
 
   
 [ Ampliar el mapa ](https://maps.google.com/maps?t=m&hl=es-ES&gl=ES&mapclient=apiv3&ie=UTF8&ll=45.020398,1.062927&spn=0.058243,0.109863&z=13&source=embed)

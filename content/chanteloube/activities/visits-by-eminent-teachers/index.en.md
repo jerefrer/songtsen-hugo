@@ -1,4 +1,6 @@
-#  Visits by eminent teachers 
+---
+title: "Visits by eminent teachers"
+---
 
 Since the beginning, the Centre d’Études de Chanteloube has had the immense privilege of receiving the greatest living teachers, not only of the Nyingma tradition but also of other lineages. These masters have given teachings and transmissions on a variety of subjects. 
 

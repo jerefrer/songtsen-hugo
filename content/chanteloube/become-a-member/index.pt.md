@@ -1,4 +1,6 @@
-#  Torne-se membro 
+---
+title: "Torne-se membro"
+---
 
 A Associação do Centro de Estudos de Chanteloube é uma organização sem fins lucrativos de acordo com a lei de 1901, registada na sub-perfeitura de Sarlat. 
 

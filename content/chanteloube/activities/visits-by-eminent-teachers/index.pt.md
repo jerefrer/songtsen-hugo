@@ -1,4 +1,6 @@
-#  Visitas de Mestres proeminentes 
+---
+title: "Visitas de Mestres proeminentes"
+---
 
 Desde o seu início que o Centro de Estudos de Chanteloube teve o imenso privilégio de acolher os mais importantes mestres vivos da atualidade, não só da tradição Nyingma, mas também de outras linhagens. Estes mestres deram ensinamentos e transmissões sobre variados temas. 
 

@@ -1,4 +1,6 @@
-#  Shechen Monastery 
+---
+title: "Shechen Monastery"
+---
 
 ##  Shechen Monastery, Nepal 
 

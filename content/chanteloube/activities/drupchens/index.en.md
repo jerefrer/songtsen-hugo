@@ -1,8 +1,6 @@
-#  Drupchens 
-
-[ ![Three-dimensional Mandala](/images/img_drouptchene-150x150.jpg) ](img_drouptchene.jpg)
-
-Three-dimensional Mandala 
+---
+title: "Drupchens"
+---
 
 A drupchen is an elaborate ritual meditation and group practice performed 24 hours a day for 9 days. The practice is led by one or more lamas and a group of monks and/or yogis. The participants generally practise during the day sessions and take shifts during the night sessions so that there is a never-ending flow of mantra recitation and meditation practice. 
 

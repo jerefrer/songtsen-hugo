@@ -1,4 +1,6 @@
-#  Mosteiro Kangyur Rinpoche, Darjeeling, India 
+---
+title: "Mosteiro Kangyur Rinpoche, Darjeeling, India"
+---
 
 [ ![Mosteiro Orgyen Kunzang Chökhorling, Darjeeling](/images/img_okc_monastere-150x150.jpg) ](/images/img_okc_monastere.jpg)
 

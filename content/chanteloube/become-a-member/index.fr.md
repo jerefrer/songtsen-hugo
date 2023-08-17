@@ -1,4 +1,6 @@
-#  Devenir membre 
+---
+title: "Devenir membre"
+---
 
 L’Association du Centre d’Études de Chanteloube est une association sans but lucratif régie par la loi de 1901 déclarée auprès de la Sous-préfecture de Sarlat. 
 

@@ -1,4 +1,6 @@
-#  Seminarios y estudios tradicionales 
+---
+title: "Seminarios y estudios tradicionales"
+---
 
 ##  Estudios tradicionales 
 

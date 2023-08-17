@@ -1,4 +1,6 @@
-#  Activities 
+---
+title: "Activities"
+---
 
 Le Centre d’Etudes de Chanteloube facilite l’accès à la pratique et à l’étude de la philosophie bouddhiste, grâce à des séminaires ou des retraites sur l’entraînement à la méditation. Pour animer ces programmes, Chanteloube fait appel à des maîtres éminents détenteurs de différentes traditions bouddhistes. Les programmes portent sur l’étude et la pratique combinées, et sur la méditation et l’intégration des enseignements bouddhistes dans la vie quotidienne. 
 

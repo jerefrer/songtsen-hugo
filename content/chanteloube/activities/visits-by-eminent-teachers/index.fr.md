@@ -1,4 +1,6 @@
-#  Visits by eminent teachers 
+---
+title: "Visits by eminent teachers"
+---
 
 Depuis ses débuts, le Centre d’Études de Chanteloube a eu l’immense privilège d’accueillir les plus grands maîtres tibétains de notre temps, non seulement ceux de la tradition Nyingma mais aussi des autres traditions. Ces maîtres ont transmis des initiations et donné des enseignements portant sur un grand nombre de sujets. 
 

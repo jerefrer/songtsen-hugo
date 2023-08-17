@@ -1,4 +1,6 @@
-#  O mosteiro de Lhodrak Kharchu 
+---
+title: "O mosteiro de Lhodrak Kharchu"
+---
 
 O mosteiro de Lhodrak Kharchu, situado num vale no nordeste do Butão, foi fundado por Namkhai Nyingpo Rinpoche, em 1984. Namkhai Nyingpo Rinpoche foi reconhecido, enquanto criança, por S.S. o XIV Dalai Lama e S.S. o XVI Karmapa enquanto encarnação de um lama tibetano cuja linhagem espiritual remonta a um dos discípulos mais próximos do grande mestre do séc. VIII, Padmasambhava. Namkhai Nyingpo Rinpoche foi discípulo próximo de Kyabje Dilgo Khyentse Rinpoche. 
 

@@ -1,4 +1,6 @@
-#  Monastère de Kangyour Rinpotché, Darjeeling, Inde 
+---
+title: "Monastère de Kangyour Rinpotché, Darjeeling, Inde"
+---
 
 [ ![Orgyen Kunzang Chökhorling Monastery, Darjeeling](/images/img_okc_monastere-150x150.jpg) ](/images/img_okc_monastere.jpg)
 

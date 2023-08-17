@@ -1,4 +1,6 @@
-#  Escuela en Boudhanath 
+---
+title: "Escuela en Boudhanath"
+---
 
 ##  Proyecto de Escuela en Boudhanath, Nepal 
 

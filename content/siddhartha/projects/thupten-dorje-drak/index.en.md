@@ -1,4 +1,6 @@
-﻿#  Thupten Dorje Drak 
+﻿---
+title: "Thupten Dorje Drak"
+---
 
 The great monastery of Dorje Drak (“The Indestructible Rock”) in Tibet was one of the six great monasteries of the Nyingma School. It was famous for being the seat of the tradition of the great “Northern Treasure” (jang-ter). Following the Chinese invasion of Tibet, the monastery was completely destroyed and has only been partly restored. 
 

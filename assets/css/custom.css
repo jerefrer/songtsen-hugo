@@ -1,6 +1,8 @@
 /* Hides site name */
-nav.flex.space-x-3 {
-  display: none;
+nav.flex.space-x-3 > a {
+  font-size: 1.3em !important;
+  letter-spacing: -1.3px;
+  font-weight: bold;
 }
 
 @font-face {
@@ -33,6 +35,15 @@ nav.flex.space-x-3 {
    -moz-osx-font-smoothing: grayscale
 }
 .songtsen-icon-endless-knot:before{content:'\0041';}
+
+#menu-blur {
+  background: white;
+}
+
+.absolute.menuhide > div {
+  padding-top: 1.25rem;
+  background-color: white;
+}
 
 ul {
   padding-left: 0 !important;
@@ -67,6 +78,19 @@ ul li::before,
   content: "";
 }
 
+#menu-wrapper ul li {
+  display: unset;
+  align-items: unset;
+  gap: unset;
+  line-height: unset;
+  margin: unset !important;
+  padding-left: unset !important;
+}
+
+#menu-wrapper ul li::before {
+  content: '';
+}
+
 nav, h1, h2, h3, h4, h5, h6 {
   font-family: 'Calligraph421BTRoman';
 }
@@ -90,7 +114,9 @@ nav a:hover {
   max-width: 100vw !important;
 }*/
 
-.homepage .grid {
+#main-content .homepage .grid {
+  gap: 0.5em !important;
+  margin-top: 0.5em;
 }
 
 .homepage .card > div {
@@ -127,6 +153,10 @@ nav a:hover {
 }
 .homepage .card > div .description {
   z-index: 3;
+  color: rgba(255, 255, 255, 1);
+}
+.homepage .card > div .description h3 {
+  font-size: 1.55em;
 }
 
 
@@ -164,32 +194,24 @@ nav a:hover {
 
 
 
-.thumbnail_card {
+.card .thumbnail_card {
   filter: grayscale(0.2);
   transition: 0.4s ease-in-out;
   transform: rotate(-0.5deg) scale(1.1);
 }
-.thumbnail_card:hover {
+.card:hover .thumbnail_card {
   filter: none;
   transform: rotate(0deg) scale(1.15);
 }
-.thumbnail_card + div {
+.card .content {
+  position: absolute;
+  bottom: 0;
   text-shadow: 0 0 5px black;
 }
 
-.thumbnail_card:before {
-  opacity: 0.65;
-  background-color: black;
-}
-.thumbnail_card > div:hover:before {
-  opacity: 0;
-}
-.thumbnail_card + div {
-  position: absolute;
-  bottom: 0;
-}
-.thumbnail_card + div + div {
-  display: none;
+.card .content .title {
+  font-family: 'Calligraph421BTRoman';
+  color: rgba(255, 255, 255, 0.9);
 }
 
 
@@ -256,7 +278,7 @@ nav a:hover {
         -webkit-align-items: center;
         -ms-align-items: center;
         align-items: center;
-        padding: 2em 3em 0.1em 3em ;
+        padding: 2em 3em;
         width: 70%;
       }
 
@@ -414,7 +436,6 @@ nav a:hover {
 }
 
 .event-dates-container .label {
-  color: rgba(255, 255, 255, 0.5);
   font-style: italic;
   text-align: center;
   margin: 0.25em;

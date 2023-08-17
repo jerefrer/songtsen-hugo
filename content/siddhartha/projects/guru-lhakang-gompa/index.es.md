@@ -1,4 +1,6 @@
-﻿#  El monasterio de Gurú Lhakhang 
+﻿---
+title: "El monasterio de Gurú Lhakhang"
+---
 
 ##  El monasterio de Gurú Lhakhang 
 

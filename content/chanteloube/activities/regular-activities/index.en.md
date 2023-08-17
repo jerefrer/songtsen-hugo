@@ -1,8 +1,6 @@
-#  Regular activities 
-
-[ ![Padmasambhava, Guru Rinpoche](/images/img_guru_rinpoche-150x150.jpg) ](http://www.songtsen.org/chanteloube/wp-content/uploads/sites/5/2013/11/img_guru_rinpoche.jpg)
-
-Padmasambhava, Guru Rinpoche 
+---
+title: "Regular activities"
+---
 
 On special days of the Tibetan calendar, local students and practitioners gather to practise meditation and to perform various sadhanas, including tsok (feast offering). This is done on the Four Great Festival days: the Miracle day of Buddha Shakyamuni, the day of Buddha’s enlightenment and parinirvana, the first turning of the wheel of Dharma, and the day of Buddha’s descent from Tushita. Special practice days include anniversaries marking the passing away of great masters, particularly the teachers connected with Chanteloube. 
 

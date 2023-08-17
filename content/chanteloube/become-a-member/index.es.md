@@ -1,4 +1,6 @@
-#  Cómo hacerse socio 
+---
+title: "Cómo hacerse socio"
+---
 
 La Asociación del Centro de Estudios de Chanteloube es una organización sin ánimo de lucro según la ley de 1902 y está registrada en la subprefectura de Sarlat (Francia). 
 

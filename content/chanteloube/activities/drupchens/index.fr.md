@@ -1,4 +1,6 @@
-#  Drouptchènes 
+---
+title: "Drouptchènes"
+---
 
 [ ![Three-dimensional Mandala](/images/img_drouptchene-150x150.jpg) ](img_drouptchene.jpg)
 

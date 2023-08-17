@@ -1,4 +1,6 @@
-#  Monastère de Gourou Lhakang gompa 
+---
+title: "Monastère de Gourou Lhakang gompa"
+---
 
 ##  Gourou Lhakang Gompa 
 

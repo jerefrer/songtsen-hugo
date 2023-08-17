@@ -1,9 +1,11 @@
-#  How to get there 
+---
+title: "How to get there"
+---
 
   
-[ View Larger Map ](https://maps.google.com/maps?t=m&hl=en-US&gl=US&mapclient=apiv3&ie=UTF8&ll=45.020398,1.062927&spn=0.058243,0.109863&z=13&source=embed)
+<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d45123.6639439393!2d1.062068693115239!3d45.02027666016921!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1692295963656!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-##  ![ico_car](/images/ico_car.png) How to get to Chanteloube by the road 
+##  How to get to Chanteloube by the road
 
 ###  Arriving from the West 
 
@@ -30,7 +32,7 @@ Continuing up the hill passing Dhagpo Kargyu Ling on your left.
 La Sonnerie (venue of the teachings), about 2 Km on the right. Chanteloube is 1 Km further up on the left. Follow the track for about 600 M.   
 La Bicanderie, (Association office) after about 800 m further on. 
 
-##  ![ico_train](/images/ico_train.png) How to get to Chanteloube by the train 
+##  How to get to Chanteloube by train
 
 The nearest railway station is at Les Eyzies de Tayac (on the Limoges-Agen line). There are two trains every day, one of which is direct from Paris Austerlitz. The station is about 15 Km from Chanteloube. Telephone numbers for the Taxi service are posted in the station. 
 
@@ -38,14 +40,12 @@ Alternatively one can take a train to Brive (on the Paris-Toulouse line). There 
 
 Alternatively one can take a train to Périgueux (on the Paris – Agen line). There are several trains daily from Paris Austerlitz, most of them with a change in Limoges and /or Perigueux. The station is about 45 Km from Chanteloube. Taxi and car hire services are available in Périgueux.. 
 
-##  ![ico_airport](/images/ico_airport.png) By the plane 
+##  How to get to Chanteloube by plane
 
 The nearest international airport is Bergerac. 
 
   * Regular flights to and from the UK 
   * Mérignac, Bordeaux. From Chanteloube to Bordeaux is a car journey of about 2 and a half hours. 
-
-
 
 Local national airports: 
 

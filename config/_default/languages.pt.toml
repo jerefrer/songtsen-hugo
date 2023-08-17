@@ -1,7 +1,7 @@
 languageCode = "pt"
 languageName = "Portugese"
 weight = 3
-title = "Songtsen"
+title = "Songtsen.org"
 
 [params]
   displayName = "PT"

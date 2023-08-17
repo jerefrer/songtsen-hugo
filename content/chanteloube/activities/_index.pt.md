@@ -1,4 +1,6 @@
-#  Atividades 
+---
+title: "Atividades"
+---
 
 O Centro de Estudos de Chanteloube promove o acesso ao estudo e à prática do budismo através de seminários e retiros. Para estas atividades, Chanteloube convida mestres ilustres de várias escolas do budismo tibetano, colocando a ênfase numa combinação de estudo e prática, e também na meditação e aplicação dos ensinamentos budistas na vida quotidiana. 
 

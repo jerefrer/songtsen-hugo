@@ -1,4 +1,6 @@
-#  Chanteloube – regulamento 
+---
+title: "Chanteloube – regulamento"
+---
 
 Solicita-se aos participantes dos eventos organizados pela Associação que evitem fumar, consumir álcool ou estupefacientes e também o consumo de carne e peixe. Os visitantes deverão manter uma conduta respeitosa e calma. 
 

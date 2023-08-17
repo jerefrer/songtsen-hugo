@@ -1,4 +1,6 @@
-﻿#  Thupten Dorje Drak 
+﻿---
+title: "Thupten Dorje Drak"
+---
 
 El gran monasterio de Dorje Drak (Roca Indestructible) era uno de los seis grandes monasterios de la Escuela Ñingma en Tíbet y famosa sede de la tradición del gran “Tesoro del Norte” (Jang-ter). Después de la invasión china de Tíbet, el monasterio fue completamente destruido y sólo ha sido parcialmente restaurado. 
 

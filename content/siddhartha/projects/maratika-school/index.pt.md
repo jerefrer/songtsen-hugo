@@ -1,4 +1,6 @@
-#  Escola em Maratika 
+---
+title: "Escola em Maratika"
+---
 
 ##  Escola em Maratika, Nepal 
 

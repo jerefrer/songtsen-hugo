@@ -1,4 +1,6 @@
-#  Affiliated groups 
+---
+title: "Affiliated groups"
+---
 
 Songtsen’s affiliated groups in other countries and some other parts of France consist of people who help to organize Songtsen’s activities, and who meet to practice together on a regular basis. In France, such groups exist in Paris, Bordeaux, and Brittany. 
 

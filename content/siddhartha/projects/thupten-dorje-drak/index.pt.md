@@ -1,4 +1,6 @@
-﻿#  Thupten Dorje Drak 
+﻿---
+title: "Thupten Dorje Drak"
+---
 
 O grande mosteiro de Dorje Drak, “O Rochedo indestrutível”, no Tibete, era um dos seis grandes mosteiros da escola Nyingma. Era célebre como a sede da tradição do grande “Tesouro do Norte” (Jang-Ter). Após a invasão chinesa do Tibete, o mosteiro foi completamente destruído e até hoje só foi parcialmente reconstruído. 
 

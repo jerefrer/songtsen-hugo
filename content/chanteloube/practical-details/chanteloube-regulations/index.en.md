@@ -1,4 +1,6 @@
-#  Chanteloube regulations 
+---
+title: "Chanteloube regulations"
+---
 
 Participants at all the events organised by the Association are asked to refrain from the consumption of meat and fish. They are asked not to smoke or consume alchool or other stupefacients. Visitors are asked to maintain a peaceful and respectful demeanour at all times. 
 

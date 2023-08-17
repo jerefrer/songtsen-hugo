@@ -1,4 +1,6 @@
-#  Séminaires et études 
+---
+title: "Séminaires et études"
+---
 
 ##  Études traditionnelles 
 

@@ -1,4 +1,6 @@
-#  O mosteiro de Guru Lhakhang 
+---
+title: "O mosteiro de Guru Lhakhang"
+---
 
 ##  O mosteiro de Guru Lhakhang 
 

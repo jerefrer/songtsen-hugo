@@ -1,4 +1,6 @@
-#  La escuela de Maratika 
+---
+title: "La escuela de Maratika"
+---
 
 ##  La escuela en Maratika, Nepal 
 

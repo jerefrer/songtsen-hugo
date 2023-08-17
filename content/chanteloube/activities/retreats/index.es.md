@@ -1,4 +1,6 @@
-#  Retiros 
+---
+title: "Retiros"
+---
 
 _“Así como los canales conducen el agua hacia donde ellos quieren, así como los arqueros hacen sus flechas rectas, así como los carpinteros tallan la madera, los sabios moldean sus mentes” ~ Buda_
 

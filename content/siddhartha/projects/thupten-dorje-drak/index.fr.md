@@ -1,4 +1,6 @@
-#  Thoupten Dorjé Drak 
+---
+title: "Thoupten Dorjé Drak"
+---
 
 Le monastère de Dorje Drak, qui signifie « Indestructible Rocher », fut l’un des six grands monastères de la lignée Nyingma au Tibet, et était connu comme le siège de la tradition dite des « Trésors du Nord » (Jang-Ter). Le monastère a été entièrement détruit dès le début de l’invasion communiste, et n’a été partiellement restauré que plus tard. 
 

@@ -1,4 +1,6 @@
-#  Monastère de Lhodrak Kharchu 
+---
+title: "Monastère de Lhodrak Kharchu"
+---
 
 ##  Le Monastère de Lhodrak Kharchu 
 

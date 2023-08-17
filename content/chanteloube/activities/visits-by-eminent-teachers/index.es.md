@@ -1,4 +1,6 @@
-#  Visitas de eminentes maestros 
+---
+title: "Visitas de eminentes maestros"
+---
 
 Desde el principio, el Centro de Estudios de Chanteloube ha tenido el inmenso privilegio de recibir a los más grandes maestros de la actualidad, no sólo de la tradición Ñingma, sino también de otros linajes. Estos maestros han dado enseñanzas y transmisiones sobre gran variedad de temas. 
 

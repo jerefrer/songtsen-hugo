@@ -1,4 +1,6 @@
-#  Retraites 
+---
+title: "Retraites"
+---
 
 _‘Le maraîcher conduit l’eau où il veut, l’archer taille ses flèches droites, les menuisiers travaillent le bois. De la même manière, le sage modèle son esprit.’ ~ Le Bouddha_
 

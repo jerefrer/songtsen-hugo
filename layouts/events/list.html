@@ -50,9 +50,9 @@
   </section>
   {{ if gt .Pages 0 }}
 
-    <ol class="border-l-2 list-none border-primary-500 dark:border-primary-300">
+    <ol class="events-list border-l-2 list-none border-primary-500 dark:border-primary-300 ml-12">
 
-      {{ range .Pages }}
+      {{ range sort .Pages ".Params.start_date" "desc" }}
 
         {{ $startDate := .Params.start_date | time.Format ":date_medium" }}
         {{ $endDate := .Params.end_date | time.Format ":date_medium" }}
@@ -61,25 +61,35 @@
 
         {{ $badge := "" }}
 
-        <li class="list-none">
+        <li class="event list-none">
           <div class="flex flex-start">
-            <div class="bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5">
-              {{ partial "icon" $icon }}
+            <div class="text-neutral-900 dark:text-neutral-700 min-w-[30px] event-dates-container -ml-12 mt-5">
+              <div class="date-block">
+                <div class="day-month">
+                  {{.Params.start_date | time.Format "Jan"}} {{ humanize (.Params.start_date | time.Format "2") }}
+                </div>
+                <div class="year">
+                  {{.Params.start_date | time.Format "2006"}}
+                </div>
+                {{ if .Params.end_date }}
+                <div class="label">
+                  to
+                </div>
+                <div class="day-month">
+                  {{.Params.end_date | time.Format "Jan"}} {{ humanize (.Params.end_date | time.Format "2") }}
+                </div>
+                <div class="year">
+                  {{.Params.end_date | time.Format "2006"}}
+                </div>
+                {{ end }}
+              </div>
             </div>
             <div class="block p-6 rounded-lg shadow-2xl min-w-full ml-6 mb-10 backdrop-blur">
               <div class="flex justify-between">
-                <h2 class="mt-0 font-bold dark:text-neutral">
+                <h2 class="mt-0 mb-3 text-2xl font-bold dark:text-neutral">
                   {{ .Title }}
                 </h2>
-                {{ if $badge }}
-                <h3 class="">
-                  {{ partial "badge"  $badge}}
-                </h3>
-                {{ end }}
               </div>
-              <h4 class="mt-0 italic small">
-                {{$startDate}} - {{$endDate}}
-              </h4>
               <div class="text-gray-700 mb-6">
                 {{- .Content -}}
               </div>

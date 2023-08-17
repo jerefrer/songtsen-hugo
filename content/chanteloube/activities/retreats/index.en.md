@@ -1,4 +1,6 @@
-#  Retreats 
+---
+title: "Retreats"
+---
 
 _“As irrigators lead water where they want, as archers make their arrows straight, as carpenters carve wood, the wise shape their minds.” ~ Buddha_
 
@@ -7,13 +9,11 @@ _“As irrigators lead water where they want, as archers make their arrows strai
   * Short group retreats 
   * Individual retreats 
 
-
-
 ##  Three-year retreats 
 
 In 1975, after Kyabje Kangyur Rinpoche’s passing away, Kyabje Dilgo Khyentse Rinpoche and Kyabje Dudjom Rinpoche began teaching at Chanteloube in Dordogne. The first retreat cabins at Chanteloube were built that same year in order to provide a place of practice for students wishing to perform long term retreats. 
 
-[ ![img_dordogne](/images/img_dordogne-150x150.jpg) ](http://www.songtsen.org/chanteloube/wp-content/uploads/sites/5/2013/11/img_dordogne.jpg)
+![img_dordogne](/images/img_dordogne.jpg)
 
 Picture taken near the retreat centre 
 
@@ -37,9 +37,7 @@ For more information or to receive an application, please email : [ chanteloube@
 
 ##  “Parallel” retreats 
 
-top ![bt_top](/images/bt_top.png)
-
-[ ![Picture taken near the retreat centre](/images/img_vallee_vezere-150x150.jpg) ](http://www.songtsen.org/chanteloube/wp-content/uploads/sites/5/2013/11/img_vallee_vezere.jpg)
+![Picture taken near the retreat centre](/images/img_vallee_vezere.jpg)
 
 Picture taken near the retreat centre 
 
@@ -51,8 +49,6 @@ The retreat cycle is pursued for a longer period of time, as practice has to be 
 
 Currently there are several hundred people in six groups at various stages of the programme – some nearing the end of the cycle and others at the very beginning. Each group gathers at three month intervals to receive teachings and advice from Jigme Khyentse Rinpoche and Pema Wangyal Rinpoche. 
 
-top ![bt_top](/images/bt_top.png)
-
 ##  Short group retreats 
 
 For those who wish to discover the Dharma or deepen their understanding of it, short group retreats are usually organized twice a year. These include simple, guided meditation sessions together with a basic exposition of Buddhist teachings. 
@@ -61,9 +57,7 @@ Please see programmes for upcoming events or subscribe to our mailing list to be
 
 ##  Individual retreats 
 
-top ![bt_top](/images/bt_top.png)
-
-[ ![The Chanteloube Stupa](/images/img_stoupa_nuit-150x150.jpg) ](http://www.songtsen.org/chanteloube/wp-content/uploads/sites/5/2013/11/img_stoupa_nuit.jpg)
+![The Chanteloube Stupa](/images/img_stoupa_nuit.jpg)
 
 The Chanteloube Stupa 
 
