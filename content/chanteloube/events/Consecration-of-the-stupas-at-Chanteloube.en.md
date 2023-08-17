@@ -6,6 +6,8 @@ end_date: 2023-08-08T22:00:00.000Z
 
 The consecration will take place at Chanteloube, 24580 PLAZAC
 
+{{<image-with-text src="/images/SSST-2.jpg">}}
 **EVENT FULL**
 
 **The maximum capacity of the stoupas site at Chanteloube has been reached, but it will still be possible to attend the ceremonies in accordance with the instructions given. For safety reasons, the association reserves the right to restrict access to the site.**
+{{</image-with-text>}}

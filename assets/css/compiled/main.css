@@ -1457,6 +1457,10 @@ select {
   margin-bottom: 2px;
 }
 
+.ml-12 {
+  margin-left: 3rem;
+}
+
 .ml-2 {
   margin-left: 0.5rem;
 }
