@@ -4,12 +4,14 @@ type: home
 layout: custom
 ---
 
+<div class="flex">
 {{<home-card
 title="Song<span>tsen</span>"
 description="A non-profit organization dedicated to the preservation and support of Tibetan culture and wisdom"
 url="/en/songtsen"
 image="songtsen/featured.jpg"
 >}}
+</div>
 
 <div class="grid md:grid-cols-2 xl:grid-cols-4">
   {{<home-card

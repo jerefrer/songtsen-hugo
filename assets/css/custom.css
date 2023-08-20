@@ -120,6 +120,44 @@ nav a:hover {
   margin-top: 0.5em;
 }
 
+.homepage .card {
+  --duration: 1;
+  --delay-start: 0;
+  --delay-step: 0.2;
+  opacity: 0;
+  transform: translateY(100%);
+  animation: slide-down calc(var(--duration) * 1s) forwards ease-out;
+}
+
+.homepage .grid .card:nth-child(1) {
+  animation-delay: calc(var(--delay-start) * 1s + 1s * var(--delay-step));
+}
+
+.homepage .grid .card:nth-child(2) {
+  animation-delay: calc(var(--delay-start) * 1s + 2s * var(--delay-step));
+}
+
+.homepage .grid .card:nth-child(3) {
+  animation-delay: calc(var(--delay-start) * 1s + 3s * var(--delay-step));
+}
+
+.homepage .grid .card:nth-child(4) {
+  animation-delay: calc(var(--delay-start) * 1s + 4s * var(--delay-step));
+}
+
+.homepage .flex .card {
+  flex: 1;
+  transform: translateY(10%);
+}
+
+@keyframes slide-down {
+    100% { transform: translateY(0%); opacity: 1; }
+}
+
+@-webkit-keyframes slide-down {
+    100% { -webkit-transform: translateY(0%); opacity: 1; }
+}
+
 .homepage .card > div {
   position: relative;
   height: 260px;
